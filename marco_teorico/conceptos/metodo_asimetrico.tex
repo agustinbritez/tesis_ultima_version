@@ -1,0 +1,39 @@
+
+\subsection{Cifrado Asimetrico}
+Los documentos digitales se firmaban digitalmente
+mediante algún método de seguridad como la infraestructura de la clave pública 
+la cual involucra hardware, software, políticas y procedimientos; este método también llamado  cifrado asimétrico
+permite diferenciar a las entidades mediante una clave pública y una privada, la ultima es única e irrepetible 
+que es usada para cifrar los mensajes que envía, para que una entidad posea su clave necesita que un tercero 
+denominado autoridad de certificación encargada de emitir y revocar los certificados se los entregue \cite[]{avila_implementacion_2015}.
+
+Ejemplo de cómo funciona:
+una institución envía por correo electrónico un título digital a un estudiante, con el método de cifrado asimétrico.
+
+% ¿Cómo se puede verificar que el  título  que recibió es realmente enviado por la institución?
+
+Lo que sucede es lo siguiente, la institución tiene en su poder una clave pública y una privada,
+la clave privada solo es conocida por la institución, ella no debe revelarla. Mientras
+que la clave pública es un código que cualquier individuo puede conocerla, la institución puede 
+mostrar su clave pública.
+Para que el título tenga validez la institución utiliza su clave privada para cifrar el título digital, 
+una vez hecho esto la institución envía el documento cifrado al estudiante, donde este último
+para descubrir que contiene el documento cifrado, utiliza la llave pública para descifrar 
+el documento y tener acceso a  título  digital.
+% El proceso explicado abstrae el proceso técnico para entender como funciona el método de cifrado.
+El método válida inequívocamente a la institución porque cualquier mensaje 
+cifrado con la clave privada, solamente puede ser descifrada con la clave pública, estas llaves
+se complementan. Por lo tanto si el mensaje es interceptado y cambian el  contenido, al momento de cifrarlo 
+no podrá ser descifrado con la clave pública de la institución, de esta manera se verifica que la institución no envió el mensaje \cite[]{garcia_rojas_implementacion_2008,avila_implementacion_2015,avanzaexportador_certificados_2009}.
+
+
+Las autoridades certificadoras juegan un rol importante ya que ellas son la que emiten estas claves,
+y validan la identidad de las organizaciones o personas. Por lo tanto si una entidad “A” quiere enviar un mensaje
+privado a una entidad “B”, la entidad “A” debe consultar a la autoridad de certificación cual es la clave pública de 
+la entidad “B” y confiar que esa es la correcta \cite[]{garcia_rojas_implementacion_2008}. 
+
+El cifrado asimétrico no es el único método pero es bastante utilizado y uno de los más comunes \cite[]{crypto_sheinix_bitcoin_2020}.  
+
+Utilizando este método de criptografía se puede asegurar que una entidad es quien dice ser y también que un mensaje fue
+emitido por ella. Por lo tanto el método de criptografía se utiliza para validar que una entidad es la que emitió un documento digital,
+pudiendo ser este algún certificado académico,  título  académico \cite[]{garcia_rojas_implementacion_2008,avila_implementacion_2015,crypto_sheinix_bitcoin_2020}. 

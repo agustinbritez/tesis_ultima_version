@@ -1,0 +1,95 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: tesis.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+A level-1 auxiliary file: abstract.aux
+Reallocating 'name_of_file' (item size: 1) to 30 items.
+A level-1 auxiliary file: introduccion/introduccion.aux
+Reallocating 'name_of_file' (item size: 1) to 32 items.
+A level-1 auxiliary file: marco_teorico/marco_teorico.aux
+Reallocating 'name_of_file' (item size: 1) to 52 items.
+A level-1 auxiliary file: antecedentes_tendencias/antecedentes_tendencias.aux
+Reallocating 'name_of_file' (item size: 1) to 38 items.
+A level-1 auxiliary file: situacion_actual/situacion_actual.aux
+Reallocating 'name_of_file' (item size: 1) to 36 items.
+A level-1 auxiliary file: modelo_solucion/modelo_solucion.aux
+Reallocating 'name_of_file' (item size: 1) to 26 items.
+A level-1 auxiliary file: desarrollo/desarrollo.aux
+Reallocating 'name_of_file' (item size: 1) to 29 items.
+A level-1 auxiliary file: ensayo/ensayo_validacion.aux
+Reallocating 'name_of_file' (item size: 1) to 30 items.
+A level-1 auxiliary file: conclusiones/conclusiones.aux
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+The style file: apacite.bst
+Reallocating 'name_of_file' (item size: 1) to 29 items.
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: referencias/bibliografia.bib
+Warning--I'm ignoring drescher_Blockchain_2017's extra "publisher" field
+--line 161 of file referencias/bibliografia.bib
+Warning--entry type for "Blockchain_federal_argentina_protocolos_2020" isn't style-file defined
+--line 286 of file referencias/bibliografia.bib
+Warning--entry type for "Blockchain_federal_argentina_smart_2020" isn't style-file defined
+--line 312 of file referencias/bibliografia.bib
+Warning--entry type for "Blockchain_federal_argentina_bfa_2020" isn't style-file defined
+--line 323 of file referencias/bibliografia.bib
+Warning--I didn't find a database entry for "larraburu_secretariextension_2020"
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
+Warning--No journal in alice_blockchain_2021
+Warning--No journal in back_hashcash_2002
+Warning--No institution in brys_cadena_2019
+Warning--No address in brys_cadena_2019
+Warning--No journal in kelly_investigation_2018
+Warning--No journal in king_ppcoin_2012
+Warning--No journal in nakamoto_bitcoin_2008
+Warning--No school in sadouskaya_adoption_2017
+Warning--No journal in torres_Blockchain_nodate
+You've used 64 entries,
+            6951 wiz_defined-function locations,
+            1650 strings with 22643 characters,
+and the built_in function-call counts, 103658 in all, are:
+= -- 12923
+> -- 783
+< -- 4548
++ -- 4138
+- -- 197
+* -- 6249
+:= -- 17945
+add.period$ -- 293
+call.type$ -- 64
+change.case$ -- 884
+chr.to.int$ -- 0
+cite$ -- 137
+duplicate$ -- 2598
+empty$ -- 4768
+format.name$ -- 1147
+if$ -- 20753
+int.to.chr$ -- 0
+int.to.str$ -- 212
+missing$ -- 0
+newline$ -- 1554
+num.names$ -- 513
+pop$ -- 3393
+preamble$ -- 1
+purify$ -- 240
+quote$ -- 0
+skip$ -- 6302
+stack$ -- 0
+substring$ -- 4524
+swap$ -- 1379
+text.length$ -- 167
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 5784
+warning$ -- 9
+while$ -- 388
+width$ -- 0
+write$ -- 1764
+(There were 14 warnings)

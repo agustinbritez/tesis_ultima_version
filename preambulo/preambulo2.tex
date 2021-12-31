@@ -1,0 +1,140 @@
+\documentclass[
+final,
+titlepage,
+twoside,
+openright,
+onecolumn,
+spanish,
+a4paper,
+12pt]{book}
+\usepackage{graphicx,psfrag,fancyhdr,layout,appendix,subfigure,float}
+% \usepackage[backend=biber,style=apalike]{biblatex}
+% \usepackage[
+%     backend=biber,
+%     style=stylename,
+%   ]{biblatex}
+% \addbibresource{referencias/bibliografia.bib}
+% \DeclareLanguageMapping{spanish}{spanish-apa}
+% \defbibheading{bibempty}{}
+% \usepackage[style=apa]{biblatex}
+\usepackage[natbibapa]{apacite}
+
+% Configuracion de los margenes de la página
+% Ver: https://es.sharelatex.com/learn/Page_size_and_margins
+\usepackage{geometry}
+ \geometry{
+ a4paper,
+ left=4cm, right=2.5cm,
+ top=2.5cm, bottom=2.5cm
+}
+
+\usepackage{palatino}
+
+% Interlineado
+\usepackage{setspace}
+\onehalfspacing  %\doublespacing
+\renewcommand{\baselinestretch}{1.5} 
+
+% Separacion entre párrafos
+\setlength\parskip{\bigskipamount}
+
+% Sangría en la primera línea
+% \setlength\parindent{50pt}
+
+\usepackage{pdfpages} % Para importar archivos pdf (la portada)
+
+% Tamaño de la fuente del pie de imagen
+\usepackage{caption}
+\captionsetup{font=footnotesize}
+
+\usepackage{xurl}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish, es-tabla, activeacute]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{comment}
+\usepackage[Sonny]{fncychap}
+% \usepackage[Bjornstrup]{fncychap}
+
+
+\ChNumVar{\fontsize{76}{80}\usefont{OT1}{pzc}{m}{n}\selectfont}
+\ChTitleVar{\raggedleft\huge\sffamily\bfseries}  
+\ChNameVar{\bfseries\Large\sf}
+
+% \ChNumVar{\Huge}
+% \ChTitleVar{\bfseries\Large\rm}
+% \ChRuleWidth{1pt}
+% \ChNameUpperCase
+% \ChTitleUpperCase
+
+\usepackage{textcomp}
+\usepackage{etoc}
+\usepackage{titlesec}
+\usepackage{makeidx} 
+\makeindex
+\usepackage[nottoc]{tocbibind}
+\widowpenalty=100000
+\clubpenalty=100000
+\raggedbottom
+\hyphenpenalty=9000
+\tolerance=100
+
+
+
+
+% % Imagenes % % %
+% \usepackage{graphicx,float}
+% \cfoot[pie de  página en el centro en páginas pares]{pie de  página en el centro en páginas impares}
+\graphicspath{ {imagenes/} }
+
+
+% % Glosario % % %
+\usepackage[xindy,nonumberlist,acronym,toc,
+style=altlist]{glossaries}
+\input{glosario}
+\makeglossaries
+
+% % Bibliografia % %
+% \usepackage{bibtex}
+
+%----------------------------------- Packete hoja horizontal.
+% \usepackage{lscape}
+
+
+
+
+%------------------------------------Configuraciones --------------
+\renewcommand{\appendixname}{Anexos}
+\renewcommand{\appendixtocname}{Anexos}
+\renewcommand{\appendixpagename}{Anexos}
+\addto\captionsspanish{\renewcommand{\appendixname}{Anexo}}
+
+% Hypertexto colores, formas, etc. (Link o URL)
+\usepackage{hyperref}
+\usepackage[anythingbreaks]{breakurl} % Para cortar las URL largas
+\usepackage{listings}
+
+
+\hypersetup{
+colorlinks=true,
+linkcolor=black,
+filecolor=magenta,
+urlcolor=cyan,
+citecolor=black,
+pdfpagemode=FullScreen,
+}
+\urlstyle{same}
+
+
+
+
+% Para mostrar los números de secciones las referencias cruzadas
+\usepackage{cleveref}
+\crefname{enumi}{position}{positions}
+
+\usepackage[xindy]{imakeidx}
+\makeindex
+
+
+\title{Propuesta de sistema de validación para documentos digitales con tecnología  Blockchain en la Universidad Nacional de Misiones.}
+\author{Ezequiel Agustin, Britez  }
+\date{Septiembre 2020}

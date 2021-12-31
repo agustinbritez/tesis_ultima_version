@@ -1,0 +1,2648 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.1)  26 NOV 2021 11:19
+entering extended mode
+**"d:/unam/Catedras/5 quinto a√±o/Tesis/Mi tesis/ultima version/tesis.tex"
+("d:/unam/Catedras/5 quinto a√±o/Tesis/Mi tesis/ultima version/tesis.tex"
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-18> (preambulo/preambulo2.tex ("C:\Program Files\MiKTeX\tex/latex/base\book.cls"
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Program Files\MiKTeX\tex/latex/base\bk12.clo"
+File: bk12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@chapter=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+) ("C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ ("C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) ("C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ ("C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) ("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ ("C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+) ("C:\Program Files\MiKTeX\tex/latex/psfrag\psfrag.sty"
+Package: psfrag 1998/04/11 v3.04 PSfrag (MCG)
+\pfg@pcount=\count176
+\pfg@scount=\count177
+\pfg@temp=\write3
+) ("C:\Program Files\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty"
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
+\f@nch@headwidth=\skip49
+\f@nch@O@elh=\skip50
+\f@nch@O@erh=\skip51
+\f@nch@O@olh=\skip52
+\f@nch@O@orh=\skip53
+\f@nch@O@elf=\skip54
+\f@nch@O@erf=\skip55
+\f@nch@O@olf=\skip56
+\f@nch@O@orf=\skip57
+) ("C:\Program Files\MiKTeX\tex/latex/tools\layout.sty"
+Package: layout 2014/10/28 v1.2c Show layout parameters
+\oneinch=\count178
+\cnt@paperwidth=\count179
+\cnt@paperheight=\count180
+\cnt@hoffset=\count181
+\cnt@voffset=\count182
+\cnt@textheight=\count183
+\cnt@textwidth=\count184
+\cnt@topmargin=\count185
+\cnt@oddsidemargin=\count186
+\cnt@evensidemargin=\count187
+\cnt@headheight=\count188
+\cnt@headsep=\count189
+\cnt@marginparsep=\count190
+\cnt@marginparwidth=\count191
+\cnt@marginparpush=\count192
+\cnt@footskip=\count193
+\fheight=\count194
+\ref@top=\count195
+\ref@hoffset=\count196
+\ref@voffset=\count197
+\ref@head=\count198
+\ref@body=\count199
+\ref@foot=\count266
+\ref@margin=\count267
+\ref@marginwidth=\count268
+\ref@marginpar=\count269
+\Interval=\count270
+\ExtraYPos=\count271
+\PositionX=\count272
+\PositionY=\count273
+\ArrowLength=\count274
+) ("C:\Program Files\MiKTeX\tex/latex/appendix\appendix.sty"
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count275
+\c@@ppsavesec=\count276
+\c@@ppsaveapp=\count277
+) ("C:\Program Files\MiKTeX\tex/latex/subfigure\subfigure.sty"
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip58
+\subfigcapskip=\skip59
+\subfigcaptopadj=\dimen137
+\subfigbottomskip=\skip60
+\subfigcapmargin=\dimen138
+\subfiglabelskip=\skip61
+\c@subfigure=\count278
+\c@lofdepth=\count279
+\c@subtable=\count280
+\c@lotdepth=\count281
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+("C:\Program Files\MiKTeX\tex/latex/subfigure\subfigure.cfg")
+\subfig@top=\skip62
+\subfig@bottom=\skip63
+) ("C:\Program Files\MiKTeX\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count282
+\float@exts=\toks16
+\float@box=\box45
+\@float@everytoks=\toks17
+\@floatcapt=\box46
+) ("C:\Program Files\MiKTeX\tex/latex/apacite\apacite.sty"
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count283
+\bibleftmargin=\skip64
+\bibindent=\skip65
+\bibparsep=\skip66
+\bibitemsep=\skip67
+\biblabelsep=\skip68
+) ("C:\Program Files\MiKTeX\tex/latex/natbib\natbib.sty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip69
+\bibsep=\skip70
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count284
+)
+LaTeX Info: Redefining \BBA on input line 21.
+ ("C:\Program Files\MiKTeX\tex/latex/geometry\geometry.sty"
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ ("C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ ("C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count285
+\Gm@cntv=\count286
+\c@Gm@tempcnt=\count287
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks18
+ ("C:\Program Files\MiKTeX\tex/latex/geometry\geometry.cfg")) ("C:\Program Files\MiKTeX\tex/latex/psnfss\palatino.sty"
+Package: palatino 2020/03/25 PSNFSS-v9.3 (SPQR) 
+) ("C:\Program Files\MiKTeX\tex/latex/setspace\setspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+) ("C:\Program Files\MiKTeX\tex/latex/pdfpages\pdfpages.sty"
+Package: pdfpages 2020/01/28 v0.5q Insert pages of external PDF documents (AM)
+ ("C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) ("C:\Program Files\MiKTeX\tex/latex/tools\calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count288
+\calc@Bcount=\count289
+\calc@Adimen=\dimen147
+\calc@Bdimen=\dimen148
+\calc@Askip=\skip71
+\calc@Bskip=\skip72
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count290
+\calc@Cskip=\skip73
+) ("C:\Program Files\MiKTeX\tex/latex/eso-pic\eso-pic.sty"
+Package: eso-pic 2020/09/27 v2.0i eso-pic (RN)
+ ("C:\Program Files\MiKTeX\tex/generic/atbegshi\atbegshi.sty"
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+ ("C:\Program Files\MiKTeX\tex/generic/infwarerr\infwarerr.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) ("C:\Program Files\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty"
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+))
+\ESO@tempdima=\dimen149
+\ESO@tempdimb=\dimen150
+ ("C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ ("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+\AM@pagewidth=\dimen151
+\AM@pageheight=\dimen152
+ ("C:\Program Files\MiKTeX\tex/latex/pdfpages\pppdftex.def"
+File: pppdftex.def 2020/01/28 v0.5q Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box47
+\AM@global@opts=\toks19
+\AM@pagecnt=\count291
+\AM@toc@title=\toks20
+\c@AM@survey=\count292
+\AM@templatesizebox=\box48
+) ("C:\Program Files\MiKTeX\tex/latex/caption\caption.sty"
+Package: caption 2020/09/12 v3.5b Customizing captions (AR)
+ ("C:\Program Files\MiKTeX\tex/latex/caption\caption3.sty"
+Package: caption3 2020/09/17 v2.1b caption3 kernel (AR)
+\captionmargin=\dimen153
+\captionmargin@=\dimen154
+\captionwidth=\dimen155
+\caption@tempdima=\dimen156
+\caption@indent=\dimen157
+\caption@parindent=\dimen158
+\caption@hangindent=\dimen159
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count293
+\c@continuedfloat=\count294
+Package caption Info: float package is loaded.
+Package caption Info: subfigure package is loaded.
+) ("C:\Program Files\MiKTeX\tex/latex/xurl\xurl.sty"
+Package: xurl 2020/12/30 v 0.09a modify URL breaks
+ ("C:\Program Files\MiKTeX\tex/latex/url\url.sty"
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)) ("C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks21
+\inpenc@posthook=\toks22
+) ("C:\Program Files\MiKTeX\tex/generic/babel\babel.sty"
+Package: babel 2020/06/10 3.45 The Babel package
+ ("C:\Program Files\MiKTeX\tex/generic/babel\babel.def"
+File: babel.def 2020/06/10 3.45 Babel common definitions
+\babel@savecnt=\count295
+\U@D=\dimen160
+\l@babelnohyphens=\language79
+ ("C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def")
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count296
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) ("C:\Program Files\MiKTeX\tex/latex/babel-spanish\spanish.ldf"
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+\es@quottoks=\toks23
+\es@quotdepth=\count297
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+Package babel Info: Making ' an active character on input line 725.
+)) ("C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty"
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+ppl on input line 112.
+ ("C:\Program Files\MiKTeX\tex/latex/psnfss\t1ppl.fd"
+File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
+)) ("C:\Program Files\MiKTeX\tex/latex/comment\comment.sty"
+\CommentStream=\write4
+ Excluding comment 'comment') ("C:\Program Files\MiKTeX\tex/latex/fncychap\fncychap.sty"
+Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
+\RW=\skip74
+\mylen=\skip75
+\myhi=\skip76
+\px=\skip77
+\py=\skip78
+\pyy=\skip79
+\pxx=\skip80
+) ("C:\Program Files\MiKTeX\tex/latex/base\textcomp.sty"
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) ("C:\Program Files\MiKTeX\tex/latex/etoc\etoc.sty"
+Package: etoc 2020/05/15 v1.09c Completely customisable TOCs (JFB)
+ ("C:\Program Files\MiKTeX\tex/latex/tools\multicol.sty"
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count298
+\mult@box=\box49
+\multicol@leftmargin=\dimen161
+\c@unbalance=\count299
+\c@collectmore=\count300
+\doublecol@number=\count301
+\multicoltolerance=\count302
+\multicolpretolerance=\count303
+\full@width=\dimen162
+\page@free=\dimen163
+\premulticols=\dimen164
+\postmulticols=\dimen165
+\multicolsep=\skip81
+\multicolbaselineskip=\skip82
+\partial@page=\box50
+\last@line=\box51
+\maxbalancingoverflow=\dimen166
+\mult@rightbox=\box52
+\mult@grightbox=\box53
+\mult@gfirstbox=\box54
+\mult@firstbox=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\c@minrows=\count304
+\c@columnbadness=\count305
+\c@finalcolumnbadness=\count306
+\last@try=\dimen167
+\multicolovershoot=\dimen168
+\multicolundershoot=\dimen169
+\mult@nat@firstbox=\box93
+\colbreak@box=\box94
+\mc@col@check@num=\count307
+)
+\Etoc@toctoks=\toks24
+\c@etoc@tocid=\count308
+\c@etoc@tocdepth=\count309
+\etoc@framed@titlebox=\box95
+\etoc@framed@contentsbox=\box96
+) ("C:\Program Files\MiKTeX\tex/latex/titlesec\titlesec.sty"
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box97
+\beforetitleunit=\skip83
+\aftertitleunit=\skip84
+\ttl@plus=\dimen170
+\ttl@minus=\dimen171
+\ttl@toksa=\toks25
+\titlewidth=\dimen172
+\titlewidthlast=\dimen173
+\titlewidthfirst=\dimen174
+) ("C:\Program Files\MiKTeX\tex/latex/base\makeidx.sty"
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+\@indexfile=\write5
+\openout5 = `tesis.idx'.
+
+
+Writing index file tesis.idx
+("C:\Program Files\MiKTeX\tex/latex/tocbibind\tocbibind.sty"
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) ("C:\Program Files\MiKTeX\tex/latex/glossaries/base\glossaries.sty"
+Package: glossaries 2020/03/19 v4.46 (NLCT)
+ ("C:\Program Files\MiKTeX\tex/latex/xkeyval\xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+ ("C:\Program Files\MiKTeX\tex/generic/xkeyval\xkeyval.tex" ("C:\Program Files\MiKTeX\tex/generic/xkeyval\xkvutils.tex"
+\XKV@toks=\toks26
+\XKV@tempa@toks=\toks27
+)
+\XKV@depth=\count310
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) ("C:\Program Files\MiKTeX\tex/latex/mfirstuc\mfirstuc.sty"
+Package: mfirstuc 2017/11/14 v2.06 (NLCT)
+ ("C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty"
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count311
+)
+\@glsmfirst=\toks28
+\@glsmrest=\toks29
+) ("C:\Program Files\MiKTeX\tex/latex/textcase\textcase.sty"
+Package: textcase 2019/09/14 v1.00 Text only upper/lower case changing (DPC)
+) ("C:\Program Files\MiKTeX\tex/latex/xfor\xfor.sty"
+Package: xfor 2009/02/05 v1.05 (NLCT)
+) ("C:\Program Files\MiKTeX\tex/latex/datatool\datatool-base.sty"
+Package: datatool-base 2019/09/27 v2.32 (NLCT)
+ ("C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty"
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip85
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+ ("C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks30
+\ex@=\dimen175
+)) ("C:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen176
+) ("C:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count312
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count313
+\leftroot@=\count314
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count315
+\DOTSCASE@=\count316
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box98
+\strutbox@=\box99
+\big@size=\dimen177
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count317
+\c@MaxMatrixCols=\count318
+\dotsspace@=\muskip17
+\c@parentequation=\count319
+\dspbrk@lvl=\count320
+\tag@help=\toks31
+\row@=\count321
+\column@=\count322
+\maxfields@=\count323
+\andhelp@=\toks32
+\eqnshift@=\dimen178
+\alignsep@=\dimen179
+\tagshift@=\dimen180
+\tagwidth@=\dimen181
+\totwidth@=\dimen182
+\lineht@=\dimen183
+\@envbody=\toks33
+\multlinegap=\skip86
+\multlinetaggap=\skip87
+\mathdisplay@stack=\toks34
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+) ("C:\Program Files\MiKTeX\tex/latex/substr\substr.sty"
+Package: substr 2009/10/20 v1.2 Handle substrings
+\c@su@anzahl=\count324
+) ("C:\Program Files\MiKTeX\tex/latex/datatool\datatool-fp.sty"
+Package: datatool-fp 2019/09/27 v2.32 (NLCT)
+ ("C:\Program Files\MiKTeX\tex/latex/fp\fp.sty"
+Package: fp 1995/04/02
+ `Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich ("C:\Program Files\MiKTeX\tex/latex/fp\defpattern.sty"
+Package: defpattern 1994/10/12
+\actioncount=\count325
+) ("C:\Program Files\MiKTeX\tex/latex/fp\fp-basic.sty"
+Package: fp-basic 1996/05/13
+\FP@xs=\count326
+\FP@xia=\count327
+\FP@xib=\count328
+\FP@xfa=\count329
+\FP@xfb=\count330
+\FP@rega=\count331
+\FP@regb=\count332
+\FP@regs=\count333
+\FP@times=\count334
+) ("C:\Program Files\MiKTeX\tex/latex/fp\fp-addons.sty"
+Package: fp-addons 1995/03/15
+) ("C:\Program Files\MiKTeX\tex/latex/fp\fp-snap.sty"
+Package: fp-snap 1995/04/05
+) ("C:\Program Files\MiKTeX\tex/latex/fp\fp-exp.sty"
+Package: fp-exp 1995/04/03
+) ("C:\Program Files\MiKTeX\tex/latex/fp\fp-trigo.sty"
+Package: fp-trigo 1995/04/14
+) ("C:\Program Files\MiKTeX\tex/latex/fp\fp-pas.sty"
+Package: fp-pas 1994/08/29
+) ("C:\Program Files\MiKTeX\tex/latex/fp\fp-random.sty"
+Package: fp-random 1995/02/23
+\FPseed=\count335
+) ("C:\Program Files\MiKTeX\tex/latex/fp\fp-eqn.sty"
+Package: fp-eqn 1995/04/03
+) ("C:\Program Files\MiKTeX\tex/latex/fp\fp-upn.sty"
+Package: fp-upn 1996/10/21
+) ("C:\Program Files\MiKTeX\tex/latex/fp\fp-eval.sty"
+Package: fp-eval 1995/04/03
+)))
+\@dtl@toks=\toks35
+\@dtl@tmpcount=\count336
+\dtl@tmplength=\skip88
+\dtl@sortresult=\count337
+\@dtl@numgrpsepcount=\count338
+\@dtl@datatype=\count339
+\dtl@codeA=\count340
+\dtl@codeB=\count341
+\@dtl@foreach@level=\count342
+) ("C:\Program Files\MiKTeX\tex/latex/glossaries/base\glossaries-compatible-307.sty"
+Package: glossaries-compatible-307 2020/03/19 v4.46 (NLCT)
+) ("C:\Program Files\MiKTeX\tex/latex/tracklang\tracklang.sty"
+Package: tracklang 2020/06/30 v1.5 (NLCT) Track Languages
+ ("C:\Program Files\MiKTeX\tex/generic/tracklang\tracklang.tex")) ("C:\Program Files\MiKTeX\tex/latex/translator\translator.sty"
+Package: translator 2020-08-03 v1.12c Easy translation of strings in LaTeX
+) ("C:\Program Files\MiKTeX\tex/latex/glossaries-spanish\glossaries-spanish.ldf"
+File: glossaries-spanish.ldf 2014/11/23 v1.0
+ ("C:\Program Files\MiKTeX\tex/latex/glossaries-spanish\glossaries-spanish-utf8.ldf"))
+\gls@level=\count343
+\@gls@tmpb=\toks36
+\gls@tmplen=\skip89
+\glskeylisttok=\toks37
+\glslabeltok=\toks38
+\glsshorttok=\toks39
+\glslongtok=\toks40
+ ("C:\Program Files\MiKTeX\tex/latex/glossaries/styles\glossary-hypernav.sty"
+Package: glossary-hypernav 2020/03/19 v4.46 (NLCT)
+) ("C:\Program Files\MiKTeX\tex/latex/glossaries/styles\glossary-list.sty"
+Package: glossary-list 2020/03/19 v4.46 (NLCT)
+\glslistdottedwidth=\skip90
+) ("C:\Program Files\MiKTeX\tex/latex/glossaries/styles\glossary-long.sty"
+Package: glossary-long 2020/03/19 v4.46 (NLCT)
+ ("C:\Program Files\MiKTeX\tex/latex/tools\longtable.sty"
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip91
+\LTright=\skip92
+\LTpre=\skip93
+\LTpost=\skip94
+\LTchunksize=\count344
+\LTcapwidth=\dimen184
+\LT@head=\box100
+\LT@firsthead=\box101
+\LT@foot=\box102
+\LT@lastfoot=\box103
+\LT@cols=\count345
+\LT@rows=\count346
+\c@LT@tables=\count347
+\c@LT@chunks=\count348
+\LT@p@ftn=\toks41
+)
+\glsdescwidth=\skip95
+\glspagelistwidth=\skip96
+) ("C:\Program Files\MiKTeX\tex/latex/glossaries/styles\glossary-super.sty"
+Package: glossary-super 2020/03/19 v4.46 (NLCT)
+ ("C:\Program Files\MiKTeX\tex/latex/supertabular\supertabular.sty"
+Package: supertabular 2020/02/02 v4.1g the supertabular environment
+\c@tracingst=\count349
+\ST@wd=\dimen185
+\ST@rightskip=\skip97
+\ST@leftskip=\skip98
+\ST@parfillskip=\skip99
+\ST@pageleft=\dimen186
+\ST@headht=\dimen187
+\ST@tailht=\dimen188
+\ST@pagesofar=\dimen189
+\ST@pboxht=\dimen190
+\ST@lineht=\dimen191
+\ST@prevht=\dimen192
+\ST@toadd=\dimen193
+\ST@dimen=\dimen194
+\ST@pbox=\box104
+)) ("C:\Program Files\MiKTeX\tex/latex/glossaries/styles\glossary-tree.sty"
+Package: glossary-tree 2020/03/19 v4.46 (NLCT)
+\glstreeindent=\skip100
+)) (glosario.tex)
+\glswrite=\write6
+\glo@main@file=\write7
+\openout7 = `tesis.glo'.
+
+Package glossaries Info: Writing glossary file tesis.glo on input line 94.
+\glo@acronym@file=\write8
+\openout8 = `tesis.acn'.
+
+Package glossaries Info: Writing glossary file tesis.acn on input line 94.
+ ("C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty"
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+ ("C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty"
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) ("C:\Program Files\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty"
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) ("C:\Program Files\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty"
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) ("C:\Program Files\MiKTeX\tex/generic/pdfescape\pdfescape.sty"
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) ("C:\Program Files\MiKTeX\tex/latex/hycolor\hycolor.sty"
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) ("C:\Program Files\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty"
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) ("C:\Program Files\MiKTeX\tex/latex/auxhook\auxhook.sty"
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) ("C:\Program Files\MiKTeX\tex/latex/kvoptions\kvoptions.sty"
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen195
+\Hy@linkcounter=\count350
+\Hy@pagecounter=\count351
+ ("C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def"
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) ("C:\Program Files\MiKTeX\tex/generic/intcalc\intcalc.sty"
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) ("C:\Program Files\MiKTeX\tex/generic/etexcmds\etexcmds.sty"
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count352
+Package hyperref Info: Option `final' set `true' on input line 4338.
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count353
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen196
+ ("C:\Program Files\MiKTeX\tex/generic/bitset\bitset.sty"
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ ("C:\Program Files\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty"
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count354
+\Field@Width=\dimen197
+\Fld@charsize=\dimen198
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+\Hy@abspage=\count355
+\c@Item=\count356
+\c@Hfootnote=\count357
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ ("C:\Program Files\MiKTeX\tex/latex/hyperref\hpdftex.def"
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+ ("C:\Program Files\MiKTeX\tex/latex/atveryend\atveryend.sty"
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+)
+\Fld@listcount=\count358
+\c@bookmark@seq@number=\count359
+ ("C:\Program Files\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty"
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ ("C:\Program Files\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty"
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)
+\Hy@SectionHShift=\skip101
+) ("C:\Program Files\MiKTeX\tex/latex/breakurl\breakurl.sty"
+Package: breakurl 2013/04/10 v1.40 Breakable hyperref URLs
+ ("C:\Program Files\MiKTeX\tex/generic/iftex\ifpdf.sty"
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+)
+
+Package breakurl Warning: You are using breakurl while processing via pdflatex.
+(breakurl)                \burl will be just a synonym of \url.
+(breakurl)                 on input line 48.
+
+) ("C:\Program Files\MiKTeX\tex/latex/listings\listings.sty"
+\lst@mode=\count360
+\lst@gtempboxa=\box105
+\lst@token=\toks42
+\lst@length=\count361
+\lst@currlwidth=\dimen199
+\lst@column=\count362
+\lst@pos=\count363
+\lst@lostspace=\dimen256
+\lst@width=\dimen257
+\lst@newlines=\count364
+\lst@lineno=\count365
+\lst@maxwidth=\dimen258
+ ("C:\Program Files\MiKTeX\tex/latex/listings\lstmisc.sty"
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count366
+\lst@skipnumbers=\count367
+\lst@framebox=\box106
+) ("C:\Program Files\MiKTeX\tex/latex/listings\listings.cfg"
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+Package hyperref Info: Option `colorlinks' set `true' on input line 124.
+ ("C:\Program Files\MiKTeX\tex/latex/cleveref\cleveref.sty"
+Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
+Package cleveref Info: `hyperref' support loaded on input line 2370.
+LaTeX Info: Redefining \cref on input line 2370.
+LaTeX Info: Redefining \Cref on input line 2370.
+LaTeX Info: Redefining \crefrange on input line 2370.
+LaTeX Info: Redefining \Crefrange on input line 2370.
+LaTeX Info: Redefining \cpageref on input line 2370.
+LaTeX Info: Redefining \Cpageref on input line 2370.
+LaTeX Info: Redefining \cpagerefrange on input line 2370.
+LaTeX Info: Redefining \Cpagerefrange on input line 2370.
+LaTeX Info: Redefining \labelcref on input line 2370.
+LaTeX Info: Redefining \labelcpageref on input line 2370.
+Package cleveref Info: `listings' support loaded on input line 3131.
+) ("C:\Program Files\MiKTeX\tex/latex/imakeidx\imakeidx.sty"
+Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchronous mode
+ ("C:\Program Files\MiKTeX\tex/generic/iftex\ifxetex.sty"
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+) ("C:\Program Files\MiKTeX\tex/generic/iftex\ifluatex.sty"
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+))
+\tesis@idxfile=\write9
+\openout9 = `tesis.idx'.
+
+
+Writing index file tesis.idx
+) ("C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count368
+\l__pdf_internal_box=\box107
+) ("d:/unam\Catedras\5 quinto a√±o\Tesis\Mi tesis\ultima version\build\tesis.aux"
+LaTeX Info: Redefining \. on input line 34.
+LaTeX Info: Redefining \% on input line 34.
+ ("d:/unam\Catedras\5 quinto a√±o\Tesis\Mi tesis\ultima version\build\abstract.aux") ("d:/unam\Catedras\5 quinto a√±o\Tesis\Mi tesis\ultima version\build\introduccion/introduccion.aux") ("d:/unam\Catedras\5 quinto a√±o\Tesis\Mi tesis\ultima version\build\marco_teorico/marco_teorico.aux") ("d:/unam\Catedras\5 quinto a√±o\Tesis\Mi tesis\ultima version\build\antecedentes_tendencias/antecedentes_tendencias.aux") ("d:/unam\Catedras\5 quinto a√±o\Tesis\Mi tesis\ultima version\build\situacion_actual/situacion_actual.aux") ("d:/unam\Catedras\5 quinto a√±o\Tesis\Mi tesis\ultima version\build\modelo_solucion/modelo_solucion.aux") ("d:/unam\Catedras\5 quinto a√±o\Tesis\Mi tesis\ultima version\build\desarrollo/desarrollo.aux") ("d:/unam\Catedras\5 quinto a√±o\Tesis\Mi tesis\ultima version\build\ensayo/ensayo_validacion.aux") ("d:/unam\Catedras\5 quinto a√±o\Tesis\Mi tesis\ultima version\build\conclusiones/conclusiones.aux"))
+\openout1 = `tesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+ ("C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count369
+\scratchdimen=\dimen259
+\scratchbox=\box108
+\nofMPsegments=\count370
+\nofMParguments=\count371
+\everyMPshowfont=\toks43
+\MPscratchCnt=\count372
+\MPscratchDim=\dimen260
+\MPnumerator=\count373
+\makeMPintoPDFobject=\count374
+\everyMPtoPDFconversion=\toks44
+) ("C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+)
+\c@maskedRefs=\count375
+ ("C:\Program Files\MiKTeX\tex/latex/apacite\spanish.apc"
+File: spanish.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 138.
+LaTeX Info: Redefining \BHBI on input line 139.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(113.81102pt, 412.56497pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=412.56497pt
+* \textheight=702.78308pt
+* \oddsidemargin=41.54103pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-33.0119pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=88.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box109
+("C:\Program Files\MiKTeX\tex/latex/pdflscape\pdflscape.sty"
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+ ("C:\Program Files\MiKTeX\tex/latex/graphics\lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+ ("C:\Program Files\MiKTeX\tex/latex/caption\ltcaption.sty"
+Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
+)
+Package caption Info: supertabular package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Info: Redefining \. on input line 5.
+LaTeX Info: Redefining \% on input line 5.
+\Etoc@tf=\read3
+ ("C:\Program Files\MiKTeX\tex/latex/glossaries-english\glossaries-dictionary-English.dict"
+Dictionary: glossaries-dictionary, Language: English 
+) ("C:\Program Files\MiKTeX\tex/latex/glossaries-spanish\glossaries-dictionary-Spanish.dict"
+Dictionary: glossaries-dictionary, Language: Spanish 
+)
+Package hyperref Info: Link coloring ON on input line 5.
+ ("C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty"
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+ ("C:\Program Files\MiKTeX\tex/latex/refcount\refcount.sty"
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) ("C:\Program Files\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty"
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count376
+)
+LaTeX Info: Redefining \ref on input line 5.
+LaTeX Info: Redefining \pageref on input line 5.
+LaTeX Info: Redefining \nameref on input line 5.
+ ("d:/unam\Catedras\5 quinto a√±o\Tesis\Mi tesis\ultima version\build\tesis.out") ("d:/unam\Catedras\5 quinto a√±o\Tesis\Mi tesis\ultima version\build\tesis.out")
+\@outlinefile=\write10
+\openout10 = `tesis.out'.
+
+\c@lstlisting=\count377
+ (Portada.tex
+<imagenes/logo-unam.png, id=323, 642.4pt x 481.8pt>
+File: imagenes/logo-unam.png Graphic file (type png)
+<use imagenes/logo-unam.png>
+Package pdftex.def Info: imagenes/logo-unam.png  used on input line 11.
+(pdftex.def)             Requested size: 128.47772pt x 96.35829pt.
+ [1
+Non-PDF special ignored!
+<special> header=psfrag.pro
+
+\openout6 = `tesis.xdy'.
+
+
+{C:/Users/agusb/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./imagenes/logo-unam.png (PNG copy)>])
+\openout2 = `abstract.aux'.
+
+ (abstract.tex
+Overfull \hbox (12.53291pt too wide) in paragraph at lines 23--24
+[]\T1/ppl/m/n/12 Keywords: block-chain, ad-dress, va-li-da-tion, smart con-tract, di-gi-tal do-cu-ments. 
+ []
+
+[2
+
+
+]) [3]
+\tf@toc=\write11
+\openout11 = `tesis.toc'.
+
+ [4
+
+
+]
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 31.
+ ("C:\Program Files\MiKTeX\tex/latex/psnfss\t1phv.fd"
+File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
+)
+LaTeX Info: Redefining \. on input line 31.
+LaTeX Info: Redefining \% on input line 31.
+Package cleveref Info: loaded `spanish' language definitions on input line 31.
+ [5] [6] [7] [8] [9] [10
+
+] ("d:/unam\Catedras\5 quinto a√±o\Tesis\Mi tesis\ultima version\build\tesis.lof"
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+Package cleveref Info: loaded `spanish' language definitions on input line 1.
+
+Overfull \hbox (7.87633pt too wide) in paragraph at lines 9--9
+ [][] [][][]\T1/ppl/m/n/12 Captura de pan-ta-lla de la p·-gi-na Goo-gle Trends el dia 11/08/2021 
+ []
+
+[11] [12] [13])
+\tf@lof=\write12
+\openout12 = `tesis.lof'.
+
+ [14] ("d:/unam\Catedras\5 quinto a√±o\Tesis\Mi tesis\ultima version\build\tesis.lot"
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+Package cleveref Info: loaded `spanish' language definitions on input line 1.
+)
+\tf@lot=\write13
+\openout13 = `tesis.lot'.
+
+ [15
+
+]
+\openout2 = `introduccion/introduccion.aux'.
+
+ (introduccion/introduccion.tex
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+Make it at least 14.49998pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[16
+
+
+]
+Cap\'{\i }tulo 1.
+LaTeX Font Info:    Trying to load font information for OT1+pzc on input line 1.
+("C:\Program Files\MiKTeX\tex/latex/psnfss\ot1pzc.fd"
+File: ot1pzc.fd 2020/03/25 font definitions for OT1/pzc.
+)
+LaTeX Font Info:    Font shape `OT1/pzc/m/n' in size <76> not available
+(Font)              Font shape `OT1/pzc/m/it' tried instead on input line 1.
+LaTeX Font Info:    Font shape `OT1/pzc/m/n' in size <24.88> not available
+(Font)              Font shape `OT1/pzc/m/it' tried instead on input line 1.
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 1.
+ ("C:\Program Files\MiKTeX\tex/latex/psnfss\ot1phv.fd"
+File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
+) (introduccion/motivacion.tex [17]) (introduccion/problema.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+Package cleveref Info: loaded `spanish' language definitions on input line 1.
+ [18]) (introduccion/objetivos.tex
+LaTeX Info: Redefining \. on input line 13.
+LaTeX Info: Redefining \% on input line 13.
+Package cleveref Info: loaded `spanish' language definitions on input line 13.
+ [19]
+Overfull \hbox (9.68552pt too wide) in paragraph at lines 13--15
+[]\T1/ppl/m/n/12 Exponer an-te-ce-den-tes y ten-den-cias de va-li-da-cio-nes con la tec-no-lo-gÌa Block-
+ []
+
+) (introduccion/hipotesis.tex))
+LaTeX Info: Redefining \. on input line 83.
+LaTeX Info: Redefining \% on input line 83.
+Package cleveref Info: loaded `spanish' language definitions on input line 83.
+ [20]
+\openout2 = `marco_teorico/marco_teorico.aux'.
+
+ (marco_teorico/marco_teorico.tex
+Cap\'{\i }tulo 2.
+(marco_teorico/conceptos/certificado_digital.tex [21
+
+
+
+]
+Overfull \hbox (0.18451pt too wide) in paragraph at lines 23--24
+[]\T1/ppl/m/n/12 Los usua-rios fi-na-les: ob-tie-nen una cla-ve pri-va-da y una cla-ve p˙-bli-ca, tam-
+ []
+
+LaTeX Info: Redefining \. on input line 33.
+LaTeX Info: Redefining \% on input line 33.
+Package cleveref Info: loaded `spanish' language definitions on input line 33.
+[22]
+LaTeX Info: Redefining \. on input line 54.
+LaTeX Info: Redefining \% on input line 54.
+Package cleveref Info: loaded `spanish' language definitions on input line 54.
+ [23]) (marco_teorico/conceptos/integridad.tex) (marco_teorico/conceptos/documentos.tex) (marco_teorico/conceptos/peer_to_peer.tex) (marco_teorico/conceptos/protocolo_consenso.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+Package cleveref Info: loaded `spanish' language definitions on input line 1.
+ [24]) (marco_teorico/conceptos/hash.tex) (marco_teorico/conceptos/nodo.tex) (marco_teorico/conceptos/pow.tex
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
+Package cleveref Info: loaded `spanish' language definitions on input line 7.
+ [25]) (marco_teorico/conceptos/pos.tex) (marco_teorico/conceptos/prueba_autoridad.tex
+Overfull \hbox (6.0509pt too wide) in paragraph at lines 2--4
+\T1/ppl/m/n/12 sen-so uti-li-za-do en re-des Block-chain co-mo la Block-chain Fe-de-ral Ar-gen-ti-na ([][]BFA[][],
+ []
+
+LaTeX Info: Redefining \. on input line 5.
+LaTeX Info: Redefining \% on input line 5.
+Package cleveref Info: loaded `spanish' language definitions on input line 5.
+[26]) (marco_teorico/conceptos/direccion.tex) (marco_teorico/conceptos/wallet.tex
+LaTeX Info: Redefining \. on input line 10.
+LaTeX Info: Redefining \% on input line 10.
+Package cleveref Info: loaded `spanish' language definitions on input line 10.
+ [27]) (marco_teorico/Blockchain/Blockchain.tex
+LaTeX Info: Redefining \. on input line 17.
+LaTeX Info: Redefining \% on input line 17.
+Package cleveref Info: loaded `spanish' language definitions on input line 17.
+ [28]
+LaTeX Info: Redefining \. on input line 45.
+LaTeX Info: Redefining \% on input line 45.
+Package cleveref Info: loaded `spanish' language definitions on input line 45.
+ [29]
+<imagenes/nakamoto_bloque.png, id=851, 423.83344pt x 106.89937pt>
+File: imagenes/nakamoto_bloque.png Graphic file (type png)
+<use imagenes/nakamoto_bloque.png>
+Package pdftex.def Info: imagenes/nakamoto_bloque.png  used on input line 58.
+(pdftex.def)             Requested size: 423.83238pt x 106.8991pt.
+
+Overfull \hbox (11.26741pt too wide) in paragraph at lines 58--59
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 62.
+LaTeX Info: Redefining \% on input line 62.
+Package cleveref Info: loaded `spanish' language definitions on input line 62.
+[30]
+<imagenes/nakamoto_transaccion.png, id=862, 403.5075pt x 242.40562pt>
+File: imagenes/nakamoto_transaccion.png Graphic file (type png)
+<use imagenes/nakamoto_transaccion.png>
+Package pdftex.def Info: imagenes/nakamoto_transaccion.png  used on input line 71.
+(pdftex.def)             Requested size: 403.50652pt x 242.40501pt.
+LaTeX Info: Redefining \. on input line 83.
+LaTeX Info: Redefining \% on input line 83.
+Package cleveref Info: loaded `spanish' language definitions on input line 83.
+ [31 <./imagenes/nakamoto_bloque.png> <./imagenes/nakamoto_transaccion.png>]
+LaTeX Info: Redefining \. on input line 104.
+LaTeX Info: Redefining \% on input line 104.
+Package cleveref Info: loaded `spanish' language definitions on input line 104.
+ [32]
+Overfull \hbox (0.5395pt too wide) in paragraph at lines 113--118
+\T1/ppl/m/n/12 Bit-coin. Las pri-me-ras Block-chain fue-ron di-se-Òa-das pa-ra ser p˙-bli-cas. Cual-quier
+ []
+
+LaTeX Info: Redefining \. on input line 131.
+LaTeX Info: Redefining \% on input line 131.
+Package cleveref Info: loaded `spanish' language definitions on input line 131.
+[33]) (marco_teorico/Blockchain/solidity.tex) (marco_teorico/conceptos/smart_contracts.tex) (marco_teorico/Blockchain/ethereum.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+Package cleveref Info: loaded `spanish' language definitions on input line 1.
+ [34]) (marco_teorico/Blockchain/dapp.tex
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 8.
+ ("C:\Program Files\MiKTeX\tex/latex/psnfss\t1pcr.fd"
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)) (marco_teorico/Blockchain/opencerts.tex
+Overfull \hbox (0.62326pt too wide) in paragraph at lines 2--1
+[]\T1/ppl/m/n/12 Las Apli-ca-cio-nes Des-cen-tra-li-za-das o Dis-tri-bu-ted Ap-pli-ca-tion (DApp) se eje-
+ []
+
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+Package cleveref Info: loaded `spanish' language definitions on input line 1.
+[35]
+<imagenes/OpenCerts_Home.png, id=944, 1439.3775pt x 685.8122pt>
+File: imagenes/OpenCerts_Home.png Graphic file (type png)
+<use imagenes/OpenCerts_Home.png>
+Package pdftex.def Info: imagenes/OpenCerts_Home.png  used on input line 17.
+(pdftex.def)             Requested size: 431.81659pt x 205.74524pt.
+
+Overfull \hbox (19.25162pt too wide) in paragraph at lines 17--18
+ [][] 
+ []
+
+) (marco_teorico/Blockchain/blockcerts.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+Package cleveref Info: loaded `spanish' language definitions on input line 1.
+ [36 <./imagenes/OpenCerts_Home.png>]
+<imagenes/blockcerts_how_it_works.jpg, id=961, 1445.4pt x 1558.82375pt>
+File: imagenes/blockcerts_how_it_works.jpg Graphic file (type jpg)
+<use imagenes/blockcerts_how_it_works.jpg>
+Package pdftex.def Info: imagenes/blockcerts_how_it_works.jpg  used on input line 12.
+(pdftex.def)             Requested size: 433.62335pt x 467.65074pt.
+
+Overfull \hbox (21.05838pt too wide) in paragraph at lines 12--13
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
+Package cleveref Info: loaded `spanish' language definitions on input line 16.
+[37]
+LaTeX Info: Redefining \. on input line 26.
+LaTeX Info: Redefining \% on input line 26.
+Package cleveref Info: loaded `spanish' language definitions on input line 26.
+ [38 <./imagenes/blockcerts_how_it_works.jpg>]))
+LaTeX Info: Redefining \. on input line 89.
+LaTeX Info: Redefining \% on input line 89.
+Package cleveref Info: loaded `spanish' language definitions on input line 89.
+ [39]
+\openout2 = `antecedentes_tendencias/antecedentes_tendencias.aux'.
+
+ (antecedentes_tendencias/antecedentes_tendencias.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+Package cleveref Info: loaded `spanish' language definitions on input line 1.
+ [40
+
+
+
+]
+Cap\'{\i }tulo 3.
+(antecedentes_tendencias/internacional.tex [41]
+LaTeX Info: Redefining \. on input line 38.
+LaTeX Info: Redefining \% on input line 38.
+Package cleveref Info: loaded `spanish' language definitions on input line 38.
+ [42]
+<imagenes/google_trends.png, id=1017, 880.79062pt x 255.20343pt>
+File: imagenes/google_trends.png Graphic file (type png)
+<use imagenes/google_trends.png>
+Package pdftex.def Info: imagenes/google_trends.png  used on input line 58.
+(pdftex.def)             Requested size: 352.31pt x 102.07956pt.
+LaTeX Info: Redefining \. on input line 69.
+LaTeX Info: Redefining \% on input line 69.
+Package cleveref Info: loaded `spanish' language definitions on input line 69.
+ [43 <./imagenes/google_trends.png>]) (antecedentes_tendencias/nacional.tex
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
+Package cleveref Info: loaded `spanish' language definitions on input line 16.
+ [44]) (antecedentes_tendencias/local.tex
+LaTeX Info: Redefining \. on input line 13.
+LaTeX Info: Redefining \% on input line 13.
+Package cleveref Info: loaded `spanish' language definitions on input line 13.
+ [45]
+<imagenes/colmena-movida.jpg, id=1067, 617.30624pt x 427.5975pt>
+File: imagenes/colmena-movida.jpg Graphic file (type jpg)
+<use imagenes/colmena-movida.jpg>
+Package pdftex.def Info: imagenes/colmena-movida.jpg  used on input line 16.
+(pdftex.def)             Requested size: 432.11142pt x 299.31621pt.
+
+Overfull \hbox (19.54645pt too wide) in paragraph at lines 16--17
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 20.
+LaTeX Info: Redefining \% on input line 20.
+Package cleveref Info: loaded `spanish' language definitions on input line 20.
+[46]))
+LaTeX Info: Redefining \. on input line 93.
+LaTeX Info: Redefining \% on input line 93.
+Package cleveref Info: loaded `spanish' language definitions on input line 93.
+ [47 <./imagenes/colmena-movida.jpg>]
+\openout2 = `situacion_actual/situacion_actual.aux'.
+
+ (situacion_actual/situacion_actual.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+Package cleveref Info: loaded `spanish' language definitions on input line 1.
+ [48
+
+
+
+]
+Cap\'{\i }tulo 4.
+[49]
+Overfull \hbox (15.86606pt too wide) in paragraph at lines 30--32
+[]\T1/ppl/m/n/12 La or-ga-ni-za-ciÛn ins-tru-men-ta-ciÛn y eva-lua-ciÛn de la enseÒanza-aprendizaje
+ []
+
+LaTeX Info: Redefining \. on input line 51.
+LaTeX Info: Redefining \% on input line 51.
+Package cleveref Info: loaded `spanish' language definitions on input line 51.
+[50]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\gls' on input line 73.
+
+
+Overfull \hbox (0.42274pt too wide) in paragraph at lines 77--80
+\T1/ppl/m/n/12 ten-siÛn pue-den im-pli-car trans-fe-ren-cia cientÌfico-tecnolÛgica, edu-ca-ciÛn per-ma-
+ []
+
+LaTeX Info: Redefining \. on input line 86.
+LaTeX Info: Redefining \% on input line 86.
+Package cleveref Info: loaded `spanish' language definitions on input line 86.
+[51]
+LaTeX Info: Redefining \. on input line 113.
+LaTeX Info: Redefining \% on input line 113.
+Package cleveref Info: loaded `spanish' language definitions on input line 113.
+ [52]
+Overfull \hbox (28.34798pt too wide) in paragraph at lines 123--125
+\T1/ppl/m/n/12 ti-fi-ca-dos di-gi-ta-les co-mo PDF e im·-ge-nes (A.L., co-mu-ni-ca-ciÛn per-so-nal, 02/06/2021). 
+ []
+
+LaTeX Info: Redefining \. on input line 146.
+LaTeX Info: Redefining \% on input line 146.
+Package cleveref Info: loaded `spanish' language definitions on input line 146.
+[53]
+LaTeX Info: Redefining \. on input line 181.
+LaTeX Info: Redefining \% on input line 181.
+Package cleveref Info: loaded `spanish' language definitions on input line 181.
+ [54])
+LaTeX Info: Redefining \. on input line 98.
+LaTeX Info: Redefining \% on input line 98.
+Package cleveref Info: loaded `spanish' language definitions on input line 98.
+ [55]
+LaTeX Info: Redefining \. on input line 98.
+LaTeX Info: Redefining \% on input line 98.
+Package cleveref Info: loaded `spanish' language definitions on input line 98.
+ [56]
+\openout2 = `modelo_solucion/modelo_solucion.aux'.
+
+ (modelo_solucion/modelo_solucion.tex
+Cap\'{\i }tulo 5.
+[57
+
+
+
+]
+LaTeX Info: Redefining \. on input line 40.
+LaTeX Info: Redefining \% on input line 40.
+Package cleveref Info: loaded `spanish' language definitions on input line 40.
+ [58]
+LaTeX Info: Redefining \. on input line 112.
+LaTeX Info: Redefining \% on input line 112.
+Package cleveref Info: loaded `spanish' language definitions on input line 112.
+ [59]
+LaTeX Info: Redefining \. on input line 131.
+LaTeX Info: Redefining \% on input line 131.
+Package cleveref Info: loaded `spanish' language definitions on input line 131.
+ [60]
+<imagenes/MetaMask_Wallet.png, id=1202, 267.24844pt x 449.42906pt>
+File: imagenes/MetaMask_Wallet.png Graphic file (type png)
+<use imagenes/MetaMask_Wallet.png>
+Package pdftex.def Info: imagenes/MetaMask_Wallet.png  used on input line 142.
+(pdftex.def)             Requested size: 187.07263pt x 314.59819pt.
+LaTeX Info: Redefining \. on input line 146.
+LaTeX Info: Redefining \% on input line 146.
+Package cleveref Info: loaded `spanish' language definitions on input line 146.
+ [61]
+LaTeX Info: Redefining \. on input line 159.
+LaTeX Info: Redefining \% on input line 159.
+Package cleveref Info: loaded `spanish' language definitions on input line 159.
+ [62 <./imagenes/MetaMask_Wallet.png>]
+LaTeX Info: Redefining \. on input line 184.
+LaTeX Info: Redefining \% on input line 184.
+Package cleveref Info: loaded `spanish' language definitions on input line 184.
+ [63]
+LaTeX Info: Redefining \. on input line 215.
+LaTeX Info: Redefining \% on input line 215.
+Package cleveref Info: loaded `spanish' language definitions on input line 215.
+ [64]
+LaTeX Info: Redefining \. on input line 233.
+LaTeX Info: Redefining \% on input line 233.
+Package cleveref Info: loaded `spanish' language definitions on input line 233.
+
+
+Package Fancyhdr Warning: \headheight is too small (14.49998pt): 
+Make it at least 27.53194pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[65]
+LaTeX Info: Redefining \. on input line 277.
+LaTeX Info: Redefining \% on input line 277.
+Package cleveref Info: loaded `spanish' language definitions on input line 277.
+ [66])
+LaTeX Info: Redefining \. on input line 104.
+LaTeX Info: Redefining \% on input line 104.
+Package cleveref Info: loaded `spanish' language definitions on input line 104.
+ [67]
+\openout2 = `desarrollo/desarrollo.aux'.
+
+ (desarrollo/desarrollo.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+Package cleveref Info: loaded `spanish' language definitions on input line 1.
+ [68
+
+
+
+]
+Cap\'{\i }tulo 6.
+[69]
+<imagenes/Diagrama_Validacion_Documento.png, id=1299, 674.52pt x 534.49687pt>
+File: imagenes/Diagrama_Validacion_Documento.png Graphic file (type png)
+<use imagenes/Diagrama_Validacion_Documento.png>
+Package pdftex.def Info: imagenes/Diagrama_Validacion_Documento.png  used on input line 32.
+(pdftex.def)             Requested size: 404.71512pt x 320.70059pt.
+LaTeX Info: Redefining \. on input line 36.
+LaTeX Info: Redefining \% on input line 36.
+Package cleveref Info: loaded `spanish' language definitions on input line 36.
+ [70]
+LaTeX Info: Redefining \. on input line 58.
+LaTeX Info: Redefining \% on input line 58.
+Package cleveref Info: loaded `spanish' language definitions on input line 58.
+ [71 <./imagenes/Diagrama_Validacion_Documento.png>]
+<imagenes/diagrama_clases.png, id=1321, 411.78844pt x 298.86656pt>
+File: imagenes/diagrama_clases.png Graphic file (type png)
+<use imagenes/diagrama_clases.png>
+Package pdftex.def Info: imagenes/diagrama_clases.png  used on input line 61.
+(pdftex.def)             Requested size: 288.24992pt x 209.20515pt.
+LaTeX Info: Redefining \. on input line 77.
+LaTeX Info: Redefining \% on input line 77.
+Package cleveref Info: loaded `spanish' language definitions on input line 77.
+ [72 <./imagenes/diagrama_clases.png>]
+<imagenes/smart_contract_abstract.png, id=1339, 618.81187pt x 493.845pt>
+File: imagenes/smart_contract_abstract.png Graphic file (type png)
+<use imagenes/smart_contract_abstract.png>
+Package pdftex.def Info: imagenes/smart_contract_abstract.png  used on input line 95.
+(pdftex.def)             Requested size: 309.40518pt x 246.92189pt.
+LaTeX Info: Redefining \. on input line 104.
+LaTeX Info: Redefining \% on input line 104.
+Package cleveref Info: loaded `spanish' language definitions on input line 104.
+ [73]
+Overfull \hbox (2.39299pt too wide) in paragraph at lines 107--108
+[]\T1/ppl/b/it/12 documents: map-ping(string =>Do-cu-ment)\T1/ppl/m/n/12 , los hashes de do-cu-men-tos aso-
+ []
+
+LaTeX Info: Redefining \. on input line 116.
+LaTeX Info: Redefining \% on input line 116.
+Package cleveref Info: loaded `spanish' language definitions on input line 116.
+[74 <./imagenes/smart_contract_abstract.png>]
+Overfull \hbox (4.73024pt too wide) in paragraph at lines 120--121
+[]\T1/ppl/b/it/12 editOwnerOrg(newOwner:address)\T1/ppl/m/n/12 , per-mi-te cam-biar al ˙ni-co usua-rio que
+ []
+
+
+Overfull \hbox (2.99147pt too wide) in paragraph at lines 121--122
+[]\T1/ppl/b/it/12 addState(name:string, mean:string)\T1/ppl/m/n/12 , na-me es el nom-bre del es-ta-do y mean
+ []
+
+
+Overfull \hbox (9.35162pt too wide) in paragraph at lines 123--124
+[]\T1/ppl/b/it/12 addArea(ownerArea:address, na-me:string, des-crip-tion:string)\T1/ppl/m/n/12 , crea un nue-
+ []
+
+
+Overfull \hbox (12.89095pt too wide) in paragraph at lines 124--125
+[]\T1/ppl/b/it/12 editArea(id_area:uint256, na-me:string des-crip-tion:string, id_state:uint256)\T1/ppl/m/n/12 ,
+ []
+
+
+Overfull \hbox (5.23528pt too wide) in paragraph at lines 125--126
+[]\T1/ppl/b/it/12 changeOwnerArea(id_area:uint256, ne-wOw-ner:address)\T1/ppl/m/n/12 , per-mi-te cam-biar
+ []
+
+
+Overfull \hbox (1.67128pt too wide) in paragraph at lines 127--128
+[]\T1/ppl/b/it/12 editEventFull(event_id:uint256, na-me:string, des-crip-tion:string, start-Da-
+ []
+
+LaTeX Info: Redefining \. on input line 128.
+LaTeX Info: Redefining \% on input line 128.
+Package cleveref Info: loaded `spanish' language definitions on input line 128.
+[75]
+Overfull \hbox (36.15933pt too wide) in paragraph at lines 128--130
+[]\T1/ppl/b/it/12 addDocumentEvent(idHash:string, event_id:uint256, sta-te_id:uint256, reasonS-
+ []
+
+
+Overfull \hbox (14.72696pt too wide) in paragraph at lines 130--132
+[]\T1/ppl/b/it/12 addAllDocumentsEvent(hashid:string[], event_id:uint256, sta-te_id:uint256,
+ []
+
+
+Overfull \hbox (15.37488pt too wide) in paragraph at lines 132--133
+[]\T1/ppl/b/it/12 editAllDocumentsEvent(hashid:string[], event_id:uint256, sta-te_id:uint256,
+ []
+
+
+Overfull \hbox (14.52243pt too wide) in paragraph at lines 133--134
+[]\T1/ppl/b/it/12 changeStateDocument(idHash:string, sta-te_id:uint256, reasonS-ta-te:string)\T1/ppl/m/n/12 ,
+ []
+
+LaTeX Info: Redefining \. on input line 145.
+LaTeX Info: Redefining \% on input line 145.
+Package cleveref Info: loaded `spanish' language definitions on input line 145.
+[76]
+Overfull \hbox (9.57469pt too wide) in paragraph at lines 147--148
+[]\T1/ppl/b/it/12 getArea(id: uint256 ) : ( id:uint256,owner : ad-dress,name : string,description
+ []
+
+
+Overfull \hbox (3.54736pt too wide) in paragraph at lines 149--150
+[]\T1/ppl/b/it/12 getLengthEventsOfArea(id_area: uint256) : (uint256)\T1/ppl/m/n/12 , la can-ti-dad de even-
+ []
+
+
+Overfull \hbox (20.56866pt too wide) in paragraph at lines 152--153
+[]\T1/ppl/b/it/12 getEvent(id : uint256) : (id : uint256,name : string ,des-crip-tion : string,state_id
+ []
+
+
+Overfull \hbox (4.40231pt too wide) in paragraph at lines 155--156
+[]\T1/ppl/b/it/12 getDocument(idHash : string) : (idHash : string,state_id : uint256,event_id
+ []
+
+LaTeX Info: Redefining \. on input line 156.
+LaTeX Info: Redefining \% on input line 156.
+Package cleveref Info: loaded `spanish' language definitions on input line 156.
+[77]
+Overfull \hbox (22.6146pt too wide) in paragraph at lines 156--157
+[]\T1/ppl/b/it/12 getDocumentsOfEvent(id_event: uint256) : (string[])\T1/ppl/m/n/12 , ob-tie-ne to-dos los hashes
+ []
+
+LaTeX Info: Redefining \. on input line 174.
+LaTeX Info: Redefining \% on input line 174.
+Package cleveref Info: loaded `spanish' language definitions on input line 174.
+[78]
+<imagenes/metamask_install.png, id=1381, 1028.34187pt x 545.03625pt>
+File: imagenes/metamask_install.png Graphic file (type png)
+<use imagenes/metamask_install.png>
+Package pdftex.def Info: imagenes/metamask_install.png  used on input line 199.
+(pdftex.def)             Requested size: 411.32947pt x 218.01064pt.
+LaTeX Info: Redefining \. on input line 202.
+LaTeX Info: Redefining \% on input line 202.
+Package cleveref Info: loaded `spanish' language definitions on input line 202.
+ [79]
+<imagenes/metamask_addplugin.png, id=1393, 1028.34187pt x 524.71031pt>
+File: imagenes/metamask_addplugin.png Graphic file (type png)
+<use imagenes/metamask_addplugin.png>
+Package pdftex.def Info: imagenes/metamask_addplugin.png  used on input line 213.
+(pdftex.def)             Requested size: 411.32947pt x 209.8804pt.
+LaTeX Info: Redefining \. on input line 217.
+LaTeX Info: Redefining \% on input line 217.
+Package cleveref Info: loaded `spanish' language definitions on input line 217.
+ [80 <./imagenes/metamask_install.png>]
+<imagenes/metamask_getstarted.png, id=1399, 1013.28563pt x 497.60907pt>
+File: imagenes/metamask_getstarted.png Graphic file (type png)
+<use imagenes/metamask_getstarted.png>
+Package pdftex.def Info: imagenes/metamask_getstarted.png  used on input line 220.
+(pdftex.def)             Requested size: 405.30708pt x 199.0401pt.
+<imagenes/metamask_create.png, id=1400, 868.74562pt x 491.58656pt>
+File: imagenes/metamask_create.png Graphic file (type png)
+<use imagenes/metamask_create.png>
+Package pdftex.def Info: imagenes/metamask_create.png  used on input line 231.
+(pdftex.def)             Requested size: 347.4921pt x 196.63113pt.
+LaTeX Info: Redefining \. on input line 235.
+LaTeX Info: Redefining \% on input line 235.
+Package cleveref Info: loaded `spanish' language definitions on input line 235.
+ [81 <./imagenes/metamask_addplugin.png> <./imagenes/metamask_getstarted.png>]
+<imagenes/metamask_semilla.png, id=1407, 768.62157pt x 479.54156pt>
+File: imagenes/metamask_semilla.png Graphic file (type png)
+<use imagenes/metamask_semilla.png>
+Package pdftex.def Info: imagenes/metamask_semilla.png  used on input line 238.
+(pdftex.def)             Requested size: 307.44318pt x 191.81322pt.
+<imagenes/metamask_new.png, id=1410, 1003.49907pt x 512.66531pt>
+File: imagenes/metamask_new.png Graphic file (type png)
+<use imagenes/metamask_new.png>
+Package pdftex.def Info: imagenes/metamask_new.png  used on input line 254.
+(pdftex.def)             Requested size: 401.39252pt x 205.06248pt.
+LaTeX Info: Redefining \. on input line 258.
+LaTeX Info: Redefining \% on input line 258.
+Package cleveref Info: loaded `spanish' language definitions on input line 258.
+ [82 <./imagenes/metamask_create.png> <./imagenes/metamask_semilla.png>]
+<imagenes/smart_contract_compile.png, id=1420, 1026.83624pt x 520.19344pt>
+File: imagenes/smart_contract_compile.png Graphic file (type png)
+<use imagenes/smart_contract_compile.png>
+Package pdftex.def Info: imagenes/smart_contract_compile.png  used on input line 288.
+(pdftex.def)             Requested size: 410.72722pt x 208.07368pt.
+LaTeX Info: Redefining \. on input line 291.
+LaTeX Info: Redefining \% on input line 291.
+Package cleveref Info: loaded `spanish' language definitions on input line 291.
+ [83 <./imagenes/metamask_new.png>]
+<imagenes/Ropsten_seleteced.png, id=1429, 371.13657pt x 519.44063pt>
+File: imagenes/Ropsten_seleteced.png Graphic file (type png)
+<use imagenes/Ropsten_seleteced.png>
+Package pdftex.def Info: imagenes/Ropsten_seleteced.png  used on input line 303.
+(pdftex.def)             Requested size: 259.79381pt x 363.60596pt.
+LaTeX Info: Redefining \. on input line 307.
+LaTeX Info: Redefining \% on input line 307.
+Package cleveref Info: loaded `spanish' language definitions on input line 307.
+ [84 <./imagenes/smart_contract_compile.png>]
+<imagenes/FaucetMetamask.png, id=1436, 1020.81375pt x 523.20468pt>
+File: imagenes/FaucetMetamask.png Graphic file (type png)
+<use imagenes/FaucetMetamask.png>
+Package pdftex.def Info: imagenes/FaucetMetamask.png  used on input line 312.
+(pdftex.def)             Requested size: 408.31827pt x 209.27815pt.
+LaTeX Info: Redefining \. on input line 320.
+LaTeX Info: Redefining \% on input line 320.
+Package cleveref Info: loaded `spanish' language definitions on input line 320.
+ [85 <./imagenes/Ropsten_seleteced.png> <./imagenes/FaucetMetamask.png>]
+<imagenes/remix_compile.png, id=1445, 1027.58907pt x 523.20468pt>
+File: imagenes/remix_compile.png Graphic file (type png)
+<use imagenes/remix_compile.png>
+Package pdftex.def Info: imagenes/remix_compile.png  used on input line 323.
+(pdftex.def)             Requested size: 411.02835pt x 209.27815pt.
+<imagenes/remix_deploy.png, id=1446, 1028.34187pt x 526.96875pt>
+File: imagenes/remix_deploy.png Graphic file (type png)
+<use imagenes/remix_deploy.png>
+Package pdftex.def Info: imagenes/remix_deploy.png  used on input line 330.
+(pdftex.def)             Requested size: 411.32947pt x 210.78375pt.
+<imagenes/Metodos_contract_deploy.png, id=1449, 278.54062pt x 485.56406pt>
+File: imagenes/Metodos_contract_deploy.png Graphic file (type png)
+<use imagenes/Metodos_contract_deploy.png>
+Package pdftex.def Info: imagenes/Metodos_contract_deploy.png  used on input line 343.
+(pdftex.def)             Requested size: 194.9771pt x 339.89252pt.
+LaTeX Info: Redefining \. on input line 347.
+LaTeX Info: Redefining \% on input line 347.
+Package cleveref Info: loaded `spanish' language definitions on input line 347.
+ [86 <./imagenes/remix_compile.png> <./imagenes/remix_deploy.png>]
+LaTeX Info: Redefining \. on input line 358.
+LaTeX Info: Redefining \% on input line 358.
+Package cleveref Info: loaded `spanish' language definitions on input line 358.
+ [87 <./imagenes/Metodos_contract_deploy.png>]
+<imagenes/INSTALL_VUE_CLI.jpeg, id=1464, 676.02562pt x 531.48563pt>
+File: imagenes/INSTALL_VUE_CLI.jpeg Graphic file (type jpg)
+<use imagenes/INSTALL_VUE_CLI.jpeg>
+Package pdftex.def Info: imagenes/INSTALL_VUE_CLI.jpeg  used on input line 361.
+(pdftex.def)             Requested size: 473.21469pt x 372.0374pt.
+
+Overfull \hbox (60.64972pt too wide) in paragraph at lines 361--362
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 370.
+LaTeX Info: Redefining \% on input line 370.
+Package cleveref Info: loaded `spanish' language definitions on input line 370.
+[88 <./imagenes/INSTALL_VUE_CLI.jpeg>]
+<imagenes/VUE_Config.jpeg, id=1471, 723.70375pt x 179.67125pt>
+File: imagenes/VUE_Config.jpeg Graphic file (type jpg)
+<use imagenes/VUE_Config.jpeg>
+Package pdftex.def Info: imagenes/VUE_Config.jpeg  used on input line 373.
+(pdftex.def)             Requested size: 434.2256pt x 107.80356pt.
+
+Overfull \hbox (21.66063pt too wide) in paragraph at lines 373--374
+ [][] 
+ []
+
+<imagenes/librerias.jpeg, id=1477, 481.04718pt x 103.88812pt>
+File: imagenes/librerias.jpeg Graphic file (type jpg)
+<use imagenes/librerias.jpeg>
+Package pdftex.def Info: imagenes/librerias.jpeg  used on input line 384.
+(pdftex.def)             Requested size: 336.73073pt x 72.72118pt.
+<imagenes/ruta_archivo_Blockchain.png, id=1478, 211.54031pt x 283.0575pt>
+File: imagenes/ruta_archivo_Blockchain.png Graphic file (type png)
+<use imagenes/ruta_archivo_Blockchain.png>
+Package pdftex.def Info: imagenes/ruta_archivo_Blockchain.png  used on input line 397.
+(pdftex.def)             Requested size: 148.0772pt x 198.13889pt.
+LaTeX Info: Redefining \. on input line 401.
+LaTeX Info: Redefining \% on input line 401.
+Package cleveref Info: loaded `spanish' language definitions on input line 401.
+[89 <./imagenes/VUE_Config.jpeg> <./imagenes/librerias.jpeg>]
+<imagenes/ABI_Copy.png, id=1485, 267.24844pt x 477.28313pt>
+File: imagenes/ABI_Copy.png Graphic file (type png)
+<use imagenes/ABI_Copy.png>
+Package pdftex.def Info: imagenes/ABI_Copy.png  used on input line 408.
+(pdftex.def)             Requested size: 187.07263pt x 334.0959pt.
+LaTeX Info: Redefining \. on input line 412.
+LaTeX Info: Redefining \% on input line 412.
+Package cleveref Info: loaded `spanish' language definitions on input line 412.
+ [90 <./imagenes/ruta_archivo_Blockchain.png>]
+<imagenes/Front_Area.png, id=1491, 647.41875pt x 340.27126pt>
+File: imagenes/Front_Area.png Graphic file (type png)
+<use imagenes/Front_Area.png>
+Package pdftex.def Info: imagenes/Front_Area.png  used on input line 425.
+(pdftex.def)             Requested size: 453.19003pt x 238.18825pt.
+
+Overfull \hbox (40.62506pt too wide) in paragraph at lines 425--426
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 429.
+LaTeX Info: Redefining \% on input line 429.
+Package cleveref Info: loaded `spanish' language definitions on input line 429.
+[91 <./imagenes/ABI_Copy.png>]
+<imagenes/Front_event.png, id=1500, 645.91313pt x 296.60812pt>
+File: imagenes/Front_event.png Graphic file (type png)
+<use imagenes/Front_event.png>
+Package pdftex.def Info: imagenes/Front_event.png  used on input line 436.
+(pdftex.def)             Requested size: 452.13611pt x 207.62427pt.
+
+Overfull \hbox (39.57114pt too wide) in paragraph at lines 436--437
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 444.
+LaTeX Info: Redefining \% on input line 444.
+Package cleveref Info: loaded `spanish' language definitions on input line 444.
+[92 <./imagenes/Front_Area.png> <./imagenes/Front_event.png>]
+<imagenes/Front_document_owner.png, id=1509, 646.66594pt x 401.24907pt>
+File: imagenes/Front_document_owner.png Graphic file (type png)
+<use imagenes/Front_document_owner.png>
+Package pdftex.def Info: imagenes/Front_document_owner.png  used on input line 447.
+(pdftex.def)             Requested size: 452.66307pt x 280.87242pt.
+
+Overfull \hbox (40.0981pt too wide) in paragraph at lines 447--448
+ [][] 
+ []
+
+<imagenes/front_document_public.png, id=1511, 642.14906pt x 271.0125pt>
+File: imagenes/front_document_public.png Graphic file (type png)
+<use imagenes/front_document_public.png>
+Package pdftex.def Info: imagenes/front_document_public.png  used on input line 455.
+(pdftex.def)             Requested size: 449.50128pt x 189.70744pt.
+
+Overfull \hbox (36.93631pt too wide) in paragraph at lines 455--456
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 459.
+LaTeX Info: Redefining \% on input line 459.
+Package cleveref Info: loaded `spanish' language definitions on input line 459.
+[93 <./imagenes/Front_document_owner.png>]
+<imagenes/front_org.png, id=1518, 642.90187pt x 241.65282pt>
+File: imagenes/front_org.png Graphic file (type png)
+<use imagenes/front_org.png>
+Package pdftex.def Info: imagenes/front_org.png  used on input line 466.
+(pdftex.def)             Requested size: 450.02824pt x 169.1558pt.
+
+Overfull \hbox (37.46327pt too wide) in paragraph at lines 466--467
+ [][] 
+ []
+
+)
+LaTeX Info: Redefining \. on input line 112.
+LaTeX Info: Redefining \% on input line 112.
+Package cleveref Info: loaded `spanish' language definitions on input line 112.
+ [94 <./imagenes/front_document_public.png> <./imagenes/front_org.png>]
+\openout2 = `ensayo/ensayo_validacion.aux'.
+
+ (ensayo/ensayo_validacion.tex
+Cap\'{\i }tulo 7.
+[95
+
+
+
+]
+<imagenes/cambio_organizacion.png, id=1532, 1135.24126pt x 459.21562pt>
+File: imagenes/cambio_organizacion.png Graphic file (type png)
+<use imagenes/cambio_organizacion.png>
+Package pdftex.def Info: imagenes/cambio_organizacion.png  used on input line 20.
+(pdftex.def)             Requested size: 454.08846pt x 183.68298pt.
+
+Overfull \hbox (41.52348pt too wide) in paragraph at lines 20--21
+ [][] 
+ []
+
+<imagenes/nueva_area.png, id=1533, 922.19531pt x 499.8675pt>
+File: imagenes/nueva_area.png Graphic file (type png)
+<use imagenes/nueva_area.png>
+Package pdftex.def Info: imagenes/nueva_area.png  used on input line 27.
+(pdftex.def)             Requested size: 368.8716pt x 199.94345pt.
+LaTeX Info: Redefining \. on input line 31.
+LaTeX Info: Redefining \% on input line 31.
+Package cleveref Info: loaded `spanish' language definitions on input line 31.
+[96 <./imagenes/cambio_organizacion.png>]
+<imagenes/paso_1_subir_documento.png, id=1539, 1407.75937pt x 664.73344pt>
+File: imagenes/paso_1_subir_documento.png Graphic file (type png)
+<use imagenes/paso_1_subir_documento.png>
+Package pdftex.def Info: imagenes/paso_1_subir_documento.png  used on input line 55.
+(pdftex.def)             Requested size: 422.33107pt x 199.42157pt.
+
+Overfull \hbox (9.7661pt too wide) in paragraph at lines 55--56
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 59.
+LaTeX Info: Redefining \% on input line 59.
+Package cleveref Info: loaded `spanish' language definitions on input line 59.
+[97 <./imagenes/nueva_area.png>]
+<imagenes/Certificados Originales/fondos_1.png, id=1549, 847.66687pt x 599.23875pt>
+File: imagenes/Certificados Originales/fondos_1.png Graphic file (type png)
+<use imagenes/Certificados Originales/fondos_1.png>
+Package pdftex.def Info: imagenes/Certificados Originales/fondos_1.png  used on input line 73.
+(pdftex.def)             Requested size: 423.8324pt x 299.61864pt.
+
+Overfull \hbox (11.26743pt too wide) in paragraph at lines 73--74
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 77.
+LaTeX Info: Redefining \% on input line 77.
+Package cleveref Info: loaded `spanish' language definitions on input line 77.
+[98 <./imagenes/paso_1_subir_documento.png>]
+<imagenes/fondos_buitres_captura_verificado.png, id=1562, 1419.05156pt x 564.60938pt>
+File: imagenes/fondos_buitres_captura_verificado.png Graphic file (type png)
+<use imagenes/fondos_buitres_captura_verificado.png>
+Package pdftex.def Info: imagenes/fondos_buitres_captura_verificado.png  used on input line 84.
+(pdftex.def)             Requested size: 425.71875pt x 169.38411pt.
+
+Overfull \hbox (13.15378pt too wide) in paragraph at lines 84--85
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 95.
+LaTeX Info: Redefining \% on input line 95.
+Package cleveref Info: loaded `spanish' language definitions on input line 95.
+[99 <./imagenes/Certificados Originales/fondos_1.png> <./imagenes/fondos_buitres_captura_verificado.png>]
+<imagenes/Certificados Originales/fondos_1_alterado.png, id=1570, 847.66687pt x 599.23875pt>
+File: imagenes/Certificados Originales/fondos_1_alterado.png Graphic file (type png)
+<use imagenes/Certificados Originales/fondos_1_alterado.png>
+Package pdftex.def Info: imagenes/Certificados Originales/fondos_1_alterado.png  used on input line 98.
+(pdftex.def)             Requested size: 423.8324pt x 299.61864pt.
+
+Overfull \hbox (11.26743pt too wide) in paragraph at lines 98--99
+ [][] 
+ []
+
+<imagenes/fondos_1_prueba_modificado.png, id=1572, 1182.66844pt x 492.33937pt>
+File: imagenes/fondos_1_prueba_modificado.png Graphic file (type png)
+<use imagenes/fondos_1_prueba_modificado.png>
+Package pdftex.def Info: imagenes/fondos_1_prueba_modificado.png  used on input line 112.
+(pdftex.def)             Requested size: 473.059pt x 196.93225pt.
+
+Overfull \hbox (60.49403pt too wide) in paragraph at lines 112--113
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 116.
+LaTeX Info: Redefining \% on input line 116.
+Package cleveref Info: loaded `spanish' language definitions on input line 116.
+[100 <./imagenes/Certificados Originales/fondos_1_alterado.png>]
+<imagenes/Certificados Originales/Certificado_Geogebra.png, id=1589, 844.65562pt x 598.48593pt>
+File: imagenes/Certificados Originales/Certificado_Geogebra.png Graphic file (type png)
+<use imagenes/Certificados Originales/Certificado_Geogebra.png>
+Package pdftex.def Info: imagenes/Certificados Originales/Certificado_Geogebra.png  used on input line 144.
+(pdftex.def)             Requested size: 422.32678pt x 299.24223pt.
+
+Overfull \hbox (9.76181pt too wide) in paragraph at lines 144--145
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 148.
+LaTeX Info: Redefining \% on input line 148.
+Package cleveref Info: loaded `spanish' language definitions on input line 148.
+[101 <./imagenes/fondos_1_prueba_modificado.png>]
+<imagenes/geogebra_validado.png, id=1596, 964.35281pt x 539.01375pt>
+File: imagenes/geogebra_validado.png Graphic file (type png)
+<use imagenes/geogebra_validado.png>
+Package pdftex.def Info: imagenes/geogebra_validado.png  used on input line 153.
+(pdftex.def)             Requested size: 482.17523pt x 269.50621pt.
+
+Overfull \hbox (69.61026pt too wide) in paragraph at lines 153--154
+ [][] 
+ []
+
+
+Overfull \hbox (4.28386pt too wide) in paragraph at lines 158--161
+[]\T1/ppl/m/n/12 Como prue-ba se cam-biÛ el nom-bre del ar-chi-vo de Cer-ti-fi-ca-do_Geogebra.png
+ []
+
+LaTeX Info: Redefining \. on input line 162.
+LaTeX Info: Redefining \% on input line 162.
+Package cleveref Info: loaded `spanish' language definitions on input line 162.
+[102 <./imagenes/Certificados Originales/Certificado_Geogebra.png> <./imagenes/geogebra_validado.png>]
+<imagenes/geo_cambio_nombre.png, id=1603, 939.51pt x 306.39468pt>
+File: imagenes/geo_cambio_nombre.png Graphic file (type png)
+<use imagenes/geo_cambio_nombre.png>
+Package pdftex.def Info: imagenes/geo_cambio_nombre.png  used on input line 168.
+(pdftex.def)             Requested size: 469.75385pt x 153.19696pt.
+
+Overfull \hbox (57.18887pt too wide) in paragraph at lines 168--169
+ [][] 
+ []
+
+
+Overfull \hbox (47.05037pt too wide) in paragraph at lines 173--174
+[]\T1/ppl/m/n/12 A con-ti-nua-ciÛn se rea-li-za una mo-di-fi-ca-cio-nes in-ter-nas del Cer-ti-fi-ca-do_Geogebra.png
+ []
+
+<imagenes/Certificados Originales/Geogebra_1_alterado.png, id=1605, 844.65562pt x 598.48593pt>
+File: imagenes/Certificados Originales/Geogebra_1_alterado.png Graphic file (type png)
+<use imagenes/Certificados Originales/Geogebra_1_alterado.png>
+Package pdftex.def Info: imagenes/Certificados Originales/Geogebra_1_alterado.png  used on input line 177.
+(pdftex.def)             Requested size: 422.32678pt x 299.24223pt.
+
+Overfull \hbox (9.76181pt too wide) in paragraph at lines 177--178
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 181.
+LaTeX Info: Redefining \% on input line 181.
+Package cleveref Info: loaded `spanish' language definitions on input line 181.
+[103 <./imagenes/geo_cambio_nombre.png>]
+<imagenes/geo_validacion_alterado.png, id=1614, 944.7797pt x 444.91219pt>
+File: imagenes/geo_validacion_alterado.png Graphic file (type png)
+<use imagenes/geo_validacion_alterado.png>
+Package pdftex.def Info: imagenes/geo_validacion_alterado.png  used on input line 191.
+(pdftex.def)             Requested size: 377.90518pt x 177.96172pt.
+LaTeX Info: Redefining \. on input line 213.
+LaTeX Info: Redefining \% on input line 213.
+Package cleveref Info: loaded `spanish' language definitions on input line 213.
+ [104 <./imagenes/Certificados Originales/Geogebra_1_alterado.png> <./imagenes/geo_validacion_alterado.png>]
+Overfull \hbox (28.04326pt too wide) in paragraph at lines 216--219
+[]\T1/ppl/m/n/12 Se so-me-tiÛ a prue-ba el cer-ti-fi-ca-do (Cer-ti-fi-ca-do_LiquidaciÛn_ingresos_brutos.png
+ []
+
+<imagenes/Certificados Originales/Certificado_Liquidaci√≥n_ingresos_brutos.png, id=1626, 846.91406pt x 595.47469pt>
+File: imagenes/Certificados Originales/Certificado_Liquidaci√≥n_ingresos_brutos.png Graphic file (type png)
+<use imagenes/Certificados Originales/Certificado_Liquidaci√≥n_ingresos_brutos.png>
+Package pdftex.def Info: imagenes/Certificados Originales/Certificado_Liquidaci√≥n_ingresos_brutos.png  used on input line 222.
+(pdftex.def)             Requested size: 423.456pt x 297.7366pt.
+
+Overfull \hbox (10.89102pt too wide) in paragraph at lines 222--223
+ [][] 
+ []
+
+<imagenes/liquidacion_validacion.png, id=1628, 941.76843pt x 289.08pt>
+File: imagenes/liquidacion_validacion.png Graphic file (type png)
+<use imagenes/liquidacion_validacion.png>
+Package pdftex.def Info: imagenes/liquidacion_validacion.png  used on input line 231.
+(pdftex.def)             Requested size: 376.7007pt x 115.62994pt.
+LaTeX Info: Redefining \. on input line 235.
+LaTeX Info: Redefining \% on input line 235.
+Package cleveref Info: loaded `spanish' language definitions on input line 235.
+[105 <./imagenes/Certificados Originales/Certificado_Liquidaci√≥n_ingresos_brutos.png>]
+<imagenes/Certificados Originales/Certificado_Liquidaci√≥n_ingresos_brutos_alterado.png, id=1634, 846.91406pt x 595.47469pt>
+File: imagenes/Certificados Originales/Certificado_Liquidaci√≥n_ingresos_brutos_alterado.png Graphic file (type png)
+<use imagenes/Certificados Originales/Certificado_Liquidaci√≥n_ingresos_brutos_alterado.png>
+Package pdftex.def Info: imagenes/Certificados Originales/Certificado_Liquidaci√≥n_ingresos_brutos_alterado.png  used on input line 240.
+(pdftex.def)             Requested size: 423.456pt x 297.7366pt.
+
+Overfull \hbox (10.89102pt too wide) in paragraph at lines 240--241
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 263.
+LaTeX Info: Redefining \% on input line 263.
+Package cleveref Info: loaded `spanish' language definitions on input line 263.
+[106 <./imagenes/liquidacion_validacion.png> <./imagenes/Certificados Originales/Certificado_Liquidaci√≥n_ingresos_brutos_alterado.png>])
+LaTeX Info: Redefining \. on input line 115.
+LaTeX Info: Redefining \% on input line 115.
+Package cleveref Info: loaded `spanish' language definitions on input line 115.
+ [107]
+LaTeX Info: Redefining \. on input line 115.
+LaTeX Info: Redefining \% on input line 115.
+Package cleveref Info: loaded `spanish' language definitions on input line 115.
+ [108]
+\openout2 = `conclusiones/conclusiones.aux'.
+
+ (conclusiones/conclusiones.tex
+Cap\'{\i }tulo 8.
+[109
+
+
+
+])
+LaTeX Info: Redefining \. on input line 119.
+LaTeX Info: Redefining \% on input line 119.
+Package cleveref Info: loaded `spanish' language definitions on input line 119.
+ [110]
+No file tesis.gls.
+No file tesis.acr.
+("d:/unam\Catedras\5 quinto a√±o\Tesis\Mi tesis\ultima version\build\tesis.bbl" [111
+
+]
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+Package cleveref Info: loaded `spanish' language definitions on input line 1.
+ [112
+
+] [113]
+Underfull \hbox (badness 2050) in paragraph at lines 322--334
+[]\T1/ppl/m/n/12 BFA.  (s.f.[][]).  \T1/ppl/m/it/12 Tra-za-bi-li-dad de ali-men-tos.  \T1/ppl/m/n/12 Des-car-ga-do 09/06/2021, de
+ []
+
+
+Underfull \hbox (badness 2119) in paragraph at lines 398--419
+\T1/ppl/m/n/12 so-li-dity smart con-tract ins-pec-tor.  En \T1/ppl/m/it/12 2018 In-ter-na-tio-nal Workshop
+ []
+
+
+Underfull \hbox (badness 4713) in paragraph at lines 398--419
+\T1/ppl/m/it/12 on Block-chain Orien-ted Soft-wa-re En-gi-nee-ring (IW-BO-SE) \T1/ppl/m/n/12 (pp.[] 9--18).
+ []
+
+LaTeX Info: Redefining \. on input line 516.
+LaTeX Info: Redefining \% on input line 516.
+Package cleveref Info: loaded `spanish' language definitions on input line 516.
+[114]
+Underfull \hbox (badness 6978) in paragraph at lines 574--588
+\T1/ppl/m/n/12 de [][]$\T1/pcr/m/n/12 https :// medium [] .com / @coinsenda / tipos [] -de [] -wallet []
+ []
+
+
+Underfull \hbox (badness 1924) in paragraph at lines 600--616
+\T1/pcr/m/n/12 www [] .cripto247 [] .com / comunidad [] -cripto / 2021 [] -el [] -ano [] -de []
+ []
+
+
+Underfull \hbox (badness 2035) in paragraph at lines 684--699
+[]\T1/ppl/m/n/12 Dannen, C.  (2017).  \T1/ppl/m/it/12 In-tro-du-cing Ethe-reum and So-li-dity: Foun-da-tions of
+ []
+
+
+Underfull \hbox (badness 4543) in paragraph at lines 735--751
+[]\T1/ppl/m/n/12 Edublocs.  (2019).  \T1/ppl/m/it/12 Nue-ve uni-ver-si-da-des uti-li-zan block-certs pa-ra crear
+ []
+
+
+Underfull \hbox (badness 5036) in paragraph at lines 735--751
+\T1/ppl/m/it/12 un acre-di-ta-cio-nes di-gi-ta-les.  \T1/ppl/m/n/12 edu-blocs.  Des-car-ga-do 12/11/2020,
+ []
+
+
+Underfull \hbox (badness 4036) in paragraph at lines 735--751
+\T1/ppl/m/n/12 de [][]$\T1/pcr/m/n/12 https :// www [] .edublocs [] .org / noticias / params / post /
+ []
+
+LaTeX Info: Redefining \. on input line 751.
+LaTeX Info: Redefining \% on input line 751.
+Package cleveref Info: loaded `spanish' language definitions on input line 751.
+[115]
+Underfull \hbox (badness 1762) in paragraph at lines 840--857
+\T1/ppl/m/n/12 Li-ma, Pe-r˙).  Des-car-ga-do de [][]$\T1/pcr/m/n/12 https :// tesis [] .pucp [] .edu [] .pe /
+ []
+
+
+Underfull \hbox (badness 1910) in paragraph at lines 898--915
+\T1/pcr/m/n/12 -project [] -based [] -on [] -blockchain [] -technology [] -received [] -a []
+ []
+
+
+Underfull \hbox (badness 2111) in paragraph at lines 1039--1055
+\T1/ppl/m/it/12 sys-tem on the block-chain.  \T1/ppl/m/n/12 me-dium.  Des-car-ga-do 17/05/2021, de
+ []
+
+
+Underfull \hbox (badness 3646) in paragraph at lines 1039--1055
+[][]$\T1/pcr/m/n/12 https :// medium [] .com / mit [] -media [] -lab / what [] -we [] -learned []
+ []
+
+
+Underfull \hbox (badness 1910) in paragraph at lines 1039--1055
+\T1/pcr/m/n/12 -from [] -designing [] -an [] -academic [] -certificates [] -system [] -on []
+ []
+
+LaTeX Info: Redefining \. on input line 1055.
+LaTeX Info: Redefining \% on input line 1055.
+Package cleveref Info: loaded `spanish' language definitions on input line 1055.
+[116]
+Underfull \hbox (badness 7397) in paragraph at lines 1117--1131
+[]\T1/ppl/m/n/12 Mozilla.  (s.f.[]).  \T1/ppl/m/it/12 Tra-ba-jan-do con JSON.  \T1/ppl/m/n/12 mo-zi-lla.  Des-car-ga-do
+ []
+
+
+Underfull \hbox (badness 1189) in paragraph at lines 1117--1131
+\T1/ppl/m/n/12 13/07/2021, de [][]$\T1/pcr/m/n/12 https :// developer [] .mozilla [] .org / es / docs /
+ []
+
+
+Underfull \hbox (badness 2310) in paragraph at lines 1167--1182
+[]\T1/ppl/m/n/12 Noticiasdel6.  (2020).  \T1/ppl/m/it/12 Pro-yec-to Col-me-na: un mo-de-lo de re-cu-pe-ra-ciÛn de
+ []
+
+
+Underfull \hbox (badness 3503) in paragraph at lines 1167--1182
+\T1/ppl/m/it/12 re-si-duos.  \T1/ppl/m/n/12 no-ti-cias-del6.  Des-car-ga-do 12/08/2021, de [][]$\T1/pcr/m/n/12 https ://
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 1167--1182
+\T1/pcr/m/n/12 www [] .noticiasdel6 [] .com / proyecto [] -colmena [] -un [] -modelo [] -de []
+ []
+
+
+Underfull \hbox (badness 4303) in paragraph at lines 1220--1236
+\T1/pcr/m/n/12 informatica [] .blogs [] .uoc [] .edu / gestion [] -de [] -certificados []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1248--1262
+\T1/ppl/m/n/12 de [][]$\T1/pcr/m/n/12 https :// ethereum [] .org / en / developers / docs /
+ []
+
+LaTeX Info: Redefining \. on input line 1353.
+LaTeX Info: Redefining \% on input line 1353.
+Package cleveref Info: loaded `spanish' language definitions on input line 1353.
+[117]
+Underfull \hbox (badness 2088) in paragraph at lines 1468--1487
+[]\T1/ppl/m/n/12 Schollmeier, R.  (2002).  A de-fi-ni-tion of peer-to-peer net-wor-king for
+ []
+
+
+Underfull \hbox (badness 3417) in paragraph at lines 1579--1593
+[]\T1/ppl/m/n/12 TRUFFLE.  (s.f.[][]).  \T1/ppl/m/it/12 TRUF-FLE OVER-VIEW.  \T1/ppl/m/n/12 truf-fle-sui-te.  Des-car-
+ []
+
+LaTeX Info: Redefining \. on input line 1649.
+LaTeX Info: Redefining \% on input line 1649.
+Package cleveref Info: loaded `spanish' language definitions on input line 1649.
+[118]) (anexo/anexo.tex
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
+Package cleveref Info: loaded `spanish' language definitions on input line 4.
+ [119]
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
+Package cleveref Info: loaded `spanish' language definitions on input line 4.
+ [120
+
+]
+Anexo A.
+[121]
+Overfull \hbox (50.74117pt too wide) in paragraph at lines 10--11
+[]\T1/ppl/m/n/12 Enlace de Smart Con-tract pu-bli-ca-do en Rops-ten: [][]$\T1/pcr/m/n/12 https :// ropsten [] .etherscan []
+ []
+
+
+Overfull \hbox (5.60956pt too wide) in paragraph at lines 10--11
+\T1/pcr/m/n/12 .io / address / 0x7006882779C21D8246C82989F813237f78A781b1$[][] 
+ []
+
+LaTeX Info: Redefining \. on input line 37.
+LaTeX Info: Redefining \% on input line 37.
+Package cleveref Info: loaded `spanish' language definitions on input line 37.
+[122]
+LaTeX Info: Redefining \. on input line 69.
+LaTeX Info: Redefining \% on input line 69.
+Package cleveref Info: loaded `spanish' language definitions on input line 69.
+ [123]
+LaTeX Info: Redefining \. on input line 102.
+LaTeX Info: Redefining \% on input line 102.
+Package cleveref Info: loaded `spanish' language definitions on input line 102.
+ [124]
+LaTeX Info: Redefining \. on input line 138.
+LaTeX Info: Redefining \% on input line 138.
+Package cleveref Info: loaded `spanish' language definitions on input line 138.
+ [125]
+LaTeX Info: Redefining \. on input line 169.
+LaTeX Info: Redefining \% on input line 169.
+Package cleveref Info: loaded `spanish' language definitions on input line 169.
+ [126]
+LaTeX Info: Redefining \. on input line 183.
+LaTeX Info: Redefining \% on input line 183.
+Package cleveref Info: loaded `spanish' language definitions on input line 183.
+ [127] (anexo/codigo_smartContract.tex
+Overfull \hbox (55.43483pt too wide) in paragraph at lines 550--550
+[]                \T1/pcr/m/n/12 "Only  Organitation Owner can call this function"[] 
+ []
+
+
+Overfull \hbox (33.83484pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 // name= Verificado mean= El documento esta verificado[] 
+ []
+
+LaTeX Info: Redefining \. on input line 550.
+LaTeX Info: Redefining \% on input line 550.
+Package cleveref Info: loaded `spanish' language definitions on input line 550.
+[128]
+Overfull \hbox (12.23485pt too wide) in paragraph at lines 550--550
+[]            \T1/pcr/m/n/12 //Propietario que puede hacer cambios al evento[] 
+ []
+
+
+Overfull \hbox (26.63484pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 // only one organitation   for avoid that use a smart[] 
+ []
+
+LaTeX Info: Redefining \. on input line 550.
+LaTeX Info: Redefining \% on input line 550.
+Package cleveref Info: loaded `spanish' language definitions on input line 550.
+[129]
+Overfull \hbox (12.23485pt too wide) in paragraph at lines 550--550
+[]            \T1/pcr/m/n/12 //La primer area todos las areas borradas hacen[] 
+ []
+
+
+Overfull \hbox (26.63484pt too wide) in paragraph at lines 550--550
+[]            \T1/pcr/m/n/12 Area memory zero = Area(0, address(this), "null",[] 
+ []
+
+
+Overfull \hbox (55.43483pt too wide) in paragraph at lines 550--550
+[]            \T1/pcr/m/n/12 State memory _state = State(0, "deleted", "deleted");[] 
+ []
+
+
+Overfull \hbox (62.63483pt too wide) in paragraph at lines 550--550
+[]            \T1/pcr/m/n/12 State memory _state2 = State(1, "actived", "actived");[] 
+ []
+
+
+Overfull \hbox (62.63483pt too wide) in paragraph at lines 550--550
+[]            \T1/pcr/m/n/12 State memory _state3 = State(2, "expired", "expired");[] 
+ []
+
+
+Overfull \hbox (84.23482pt too wide) in paragraph at lines 550--550
+[]            \T1/pcr/m/n/12 Event memory _event = Event(0, "null", "null", 0, "", "",[] 
+ []
+
+LaTeX Info: Redefining \. on input line 550.
+LaTeX Info: Redefining \% on input line 550.
+Package cleveref Info: loaded `spanish' language definitions on input line 550.
+[130]
+Overfull \hbox (91.43481pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 /*********************Organitation************************* */[] 
+ []
+
+
+Overfull \hbox (62.63483pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 function setOrganitation(string memory org) public payable[] 
+ []
+
+
+Overfull \hbox (33.83484pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 function editOwnerOrg(address newOwner) public payable[] 
+ []
+
+
+Overfull \hbox (12.23485pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 /******************State************************ */[] 
+ []
+
+
+Overfull \hbox (55.43483pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 function addState(string memory name, string memory mean)[] 
+ []
+
+
+Overfull \hbox (5.03485pt too wide) in paragraph at lines 550--550
+[]            \T1/pcr/m/n/12 State memory newState = State(id, name, mean);[] 
+ []
+
+
+Overfull \hbox (41.03484pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 function editState(uint256 id,string memory name,string[] 
+ []
+
+LaTeX Info: Redefining \. on input line 550.
+LaTeX Info: Redefining \% on input line 550.
+Package cleveref Info: loaded `spanish' language definitions on input line 550.
+[131]
+Overfull \hbox (5.03485pt too wide) in paragraph at lines 550--550
+[]            \T1/pcr/m/n/12 return (id, states[id].name, states[id].mean);[] 
+ []
+
+
+Overfull \hbox (48.23483pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 function addArea(address _ownerArea,string memory _name,[] 
+ []
+
+
+Overfull \hbox (55.43483pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 string memory _description) public payable onlyOwnerOrg {[] 
+ []
+
+
+Overfull \hbox (26.63484pt too wide) in paragraph at lines 550--550
+[]                \T1/pcr/m/n/12 Area(_id, _ownerArea, _name, _description, 1,[] 
+ []
+
+
+Overfull \hbox (41.03484pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 function editArea(uint256 _id_area,string memory _name,[] 
+ []
+
+
+Overfull \hbox (19.43484pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 string memory _description,uint256 _id_state) public[] 
+ []
+
+LaTeX Info: Redefining \. on input line 550.
+LaTeX Info: Redefining \% on input line 550.
+Package cleveref Info: loaded `spanish' language definitions on input line 550.
+[132]
+Overfull \hbox (26.63484pt too wide) in paragraph at lines 550--550
+[]                    \T1/pcr/m/n/12 (areas[_id_area].ownerArea == msg.sender)[] 
+ []
+
+
+Overfull \hbox (12.23485pt too wide) in paragraph at lines 550--550
+[]                \T1/pcr/m/n/12 areas[_id_area].description = _description;[] 
+ []
+
+
+Overfull \hbox (5.03485pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 function changeOwnerArea(uint256 _id_area, address[] 
+ []
+
+
+Overfull \hbox (55.43483pt too wide) in paragraph at lines 550--550
+[]            \T1/pcr/m/n/12 require((areas.length > _id_area) && (_id_area > 0));[] 
+ []
+
+
+Overfull \hbox (5.03485pt too wide) in paragraph at lines 550--550
+[]            \T1/pcr/m/n/12 address _oldOwner = areas[_id_area].ownerArea;[] 
+ []
+
+
+Overfull \hbox (48.23483pt too wide) in paragraph at lines 550--550
+[]            \T1/pcr/m/n/12 for (uint256 index = 0; index < ownerArea[_oldOwner][] 
+ []
+
+
+Overfull \hbox (33.83484pt too wide) in paragraph at lines 550--550
+[]                \T1/pcr/m/n/12 if (ownerArea[_oldOwner][index] == _id_area) {[] 
+ []
+
+LaTeX Info: Redefining \. on input line 550.
+LaTeX Info: Redefining \% on input line 550.
+Package cleveref Info: loaded `spanish' language definitions on input line 550.
+[133]
+Overfull \hbox (62.63483pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 /********************Event***************************** */[] 
+ []
+
+
+Overfull \hbox (62.63483pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 function addEventFull(uint256 _area_id,string memory name,[] 
+ []
+
+
+Overfull \hbox (12.23485pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 string memory description,string memory _startDate,[] 
+ []
+
+
+Overfull \hbox (69.83482pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 string memory _endDate) public payable returns (uint256 id)[] 
+ []
+
+
+Overfull \hbox (19.43484pt too wide) in paragraph at lines 550--550
+[]                \T1/pcr/m/n/12 (areas[_area_id].ownerArea == msg.sender) ||[] 
+ []
+
+LaTeX Info: Redefining \. on input line 550.
+LaTeX Info: Redefining \% on input line 550.
+Package cleveref Info: loaded `spanish' language definitions on input line 550.
+[134]
+Overfull \hbox (77.03482pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 function editEventFull(uint256 _event_id,string memory name,[] 
+ []
+
+
+Overfull \hbox (62.63483pt too wide) in paragraph at lines 550--550
+[]         \T1/pcr/m/n/12 memory description,string memory _startDate,string memory[] 
+ []
+
+
+Overfull \hbox (62.63483pt too wide) in paragraph at lines 550--550
+[]         \T1/pcr/m/n/12 _endDate,uint256 area_id,uint256 state_id) public payable[] 
+ []
+
+
+Overfull \hbox (33.83484pt too wide) in paragraph at lines 550--550
+[]                \T1/pcr/m/n/12 (areas[events[_event_id].area_id].ownerArea ==[] 
+ []
+
+
+Overfull \hbox (19.43484pt too wide) in paragraph at lines 550--550
+[]                \T1/pcr/m/n/12 events[_event_id].description = description;[] 
+ []
+
+
+Overfull \hbox (5.03485pt too wide) in paragraph at lines 550--550
+[]                \T1/pcr/m/n/12 events[_event_id].startEvent = _startDate;[] 
+ []
+
+LaTeX Info: Redefining \. on input line 550.
+LaTeX Info: Redefining \% on input line 550.
+Package cleveref Info: loaded `spanish' language definitions on input line 550.
+[135]
+Overfull \hbox (33.83484pt too wide) in paragraph at lines 550--550
+[]                \T1/pcr/m/n/12 uint256 leng = areas[events[_event_id].area_id[] 
+ []
+
+
+Overfull \hbox (48.23483pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 //**********************Document***********************/[] 
+ []
+
+
+Overfull \hbox (41.03484pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 function addDocumentEvent(string memory _idHash,uint256[] 
+ []
+
+
+Overfull \hbox (41.03484pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 _event_id,uint256 _state_id,string memory _reasonState,[] 
+ []
+
+
+Overfull \hbox (33.83484pt too wide) in paragraph at lines 550--550
+[]                \T1/pcr/m/n/12 (areas[events[_event_id].area_id].ownerArea ==[] 
+ []
+
+LaTeX Info: Redefining \. on input line 550.
+LaTeX Info: Redefining \% on input line 550.
+Package cleveref Info: loaded `spanish' language definitions on input line 550.
+[136]
+Overfull \hbox (77.03482pt too wide) in paragraph at lines 550--550
+[]            \T1/pcr/m/n/12 require((states.length > _state_id) && (_state_id > 0));[] 
+ []
+
+
+Overfull \hbox (62.63483pt too wide) in paragraph at lines 550--550
+[]            \T1/pcr/m/n/12 require(bytes(documents[_idHash].idHash).length == 0);[] 
+ []
+
+
+Overfull \hbox (69.83482pt too wide) in paragraph at lines 550--550
+[]                \T1/pcr/m/n/12 Document(_idHash, _state_id, _event_id,_expiration,[] 
+ []
+
+
+Overfull \hbox (26.63484pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 function addAllDocumentsEvent(string[] memory hashid,[] 
+ []
+
+
+Overfull \hbox (19.43484pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 _reasonState, uint256  _expiration) public payable {[] 
+ []
+
+
+Overfull \hbox (69.83482pt too wide) in paragraph at lines 550--550
+[]                \T1/pcr/m/n/12 (areas[events[_event_id].area_id].ownerArea == msg.[] 
+ []
+
+
+Overfull \hbox (77.03482pt too wide) in paragraph at lines 550--550
+[]            \T1/pcr/m/n/12 require((states.length > _state_id) && (_state_id > 0));[] 
+ []
+
+
+Overfull \hbox (48.23483pt too wide) in paragraph at lines 550--550
+[]                \T1/pcr/m/n/12 tempEmptyStringTest = bytes(documents[hashid[i]][] 
+ []
+
+
+Overfull \hbox (55.43483pt too wide) in paragraph at lines 550--550
+[]                        \T1/pcr/m/n/12 Document(hashid[i], _state_id, _event_id,[] 
+ []
+
+
+Overfull \hbox (62.63483pt too wide) in paragraph at lines 550--550
+[]                    \T1/pcr/m/n/12 events[_event_id].idDocuments.push(hashid[i]);[] 
+ []
+
+LaTeX Info: Redefining \. on input line 550.
+LaTeX Info: Redefining \% on input line 550.
+Package cleveref Info: loaded `spanish' language definitions on input line 550.
+[137]
+Overfull \hbox (33.83484pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 function editAllDocumentsEvent(string[] memory hashid,[] 
+ []
+
+
+Overfull \hbox (5.03485pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 _reasonState,uint256 _expiration) public payable {[] 
+ []
+
+
+Overfull \hbox (33.83484pt too wide) in paragraph at lines 550--550
+[]                \T1/pcr/m/n/12 (areas[events[_event_id].area_id].ownerArea ==[] 
+ []
+
+
+Overfull \hbox (33.83484pt too wide) in paragraph at lines 550--550
+[]            \T1/pcr/m/n/12 string[] memory hashidFiltro = new string[](hashid[] 
+ []
+
+
+Overfull \hbox (77.03482pt too wide) in paragraph at lines 550--550
+[]                \T1/pcr/m/n/12 if (bytes(documents[hashid[i]].idHash).length > 0) {[] 
+ []
+
+
+Overfull \hbox (69.83482pt too wide) in paragraph at lines 550--550
+[]                        \T1/pcr/m/n/12 areas[events[documents[hashid[i]].event_id][] 
+ []
+
+
+Overfull \hbox (19.43484pt too wide) in paragraph at lines 550--550
+[]                        \T1/pcr/m/n/12 .area_id].ownerArea == msg.sender) {[] 
+ []
+
+LaTeX Info: Redefining \. on input line 550.
+LaTeX Info: Redefining \% on input line 550.
+Package cleveref Info: loaded `spanish' language definitions on input line 550.
+[138]
+Overfull \hbox (26.63484pt too wide) in paragraph at lines 550--550
+[]                    \T1/pcr/m/n/12 j < events[documents[hashid[i]].event_id][] 
+ []
+
+
+Overfull \hbox (69.83482pt too wide) in paragraph at lines 550--550
+[]                    \T1/pcr/m/n/12 hashAux = events[documents[hashid[i]].event_id][] 
+ []
+
+
+Overfull \hbox (41.03484pt too wide) in paragraph at lines 550--550
+[]                    \T1/pcr/m/n/12 if (keccak256(bytes(hashAux)) == keccak256([] 
+ []
+
+
+Overfull \hbox (26.63484pt too wide) in paragraph at lines 550--550
+[]                        \T1/pcr/m/n/12 events[documents[hashid[i]].event_id][] 
+ []
+
+
+Overfull \hbox (5.03485pt too wide) in paragraph at lines 550--550
+[]                \T1/pcr/m/n/12 documents[hashid[i]].event_id = _event_id;[] 
+ []
+
+
+Overfull \hbox (33.83484pt too wide) in paragraph at lines 550--550
+[]                \T1/pcr/m/n/12 events[_event_id].idDocuments.push(hashid[i]);[] 
+ []
+
+
+Overfull \hbox (5.03485pt too wide) in paragraph at lines 550--550
+[]                \T1/pcr/m/n/12 documents[hashid[i]].state_id = _state_id;[] 
+ []
+
+
+Overfull \hbox (48.23483pt too wide) in paragraph at lines 550--550
+[]                \T1/pcr/m/n/12 documents[hashid[i]].reasonState = _reasonState;[] 
+ []
+
+
+Overfull \hbox (33.83484pt too wide) in paragraph at lines 550--550
+[]                \T1/pcr/m/n/12 documents[hashid[i]].expiration = _expiration;[] 
+ []
+
+LaTeX Info: Redefining \. on input line 550.
+LaTeX Info: Redefining \% on input line 550.
+Package cleveref Info: loaded `spanish' language definitions on input line 550.
+[139]
+Overfull \hbox (62.63483pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 function changeStateDocument(string memory _idHash,uint256[] 
+ []
+
+
+Overfull \hbox (41.03484pt too wide) in paragraph at lines 550--550
+[]         \T1/pcr/m/n/12 _state_id,string memory _reasonState) public payable {[] 
+ []
+
+
+Overfull \hbox (69.83482pt too wide) in paragraph at lines 550--550
+[]                \T1/pcr/m/n/12 (areas[events[documents[_idHash].event_id].area_id][] 
+ []
+
+
+Overfull \hbox (12.23485pt too wide) in paragraph at lines 550--550
+[]                    \T1/pcr/m/n/12 msg.sender) || (msg.sender == ownerOrg)[] 
+ []
+
+
+Overfull \hbox (62.63483pt too wide) in paragraph at lines 550--550
+[]            \T1/pcr/m/n/12 require(bytes(documents[_idHash].idHash).length != 0);[] 
+ []
+
+
+Overfull \hbox (5.03485pt too wide) in paragraph at lines 550--550
+[]            \T1/pcr/m/n/12 documents[_idHash].reasonState = _reasonState;[] 
+ []
+
+
+Overfull \hbox (84.23482pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 //mando valores para la version vieja, asi modifico si quiero[] 
+ []
+
+
+Overfull \hbox (91.43481pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 //por ejemplo cambiar el estado o cambiar la razon del estado,[] 
+ []
+
+
+Overfull \hbox (77.03482pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 function newVersionDocument(string memory _idHash_old,string[] 
+ []
+
+
+Overfull \hbox (84.23482pt too wide) in paragraph at lines 550--550
+[]            \T1/pcr/m/n/12 require(bytes(documents[_idHash_old].idHash).length > 0);[] 
+ []
+
+
+Overfull \hbox (84.23482pt too wide) in paragraph at lines 550--550
+[]            \T1/pcr/m/n/12 require(bytes(documents[_idHash_new].idHash).length > 0);[] 
+ []
+
+
+Overfull \hbox (84.23482pt too wide) in paragraph at lines 550--550
+[]            \T1/pcr/m/n/12 require(keccak256(bytes(_idHash_old)) != keccak256(bytes([] 
+ []
+
+
+Overfull \hbox (26.63484pt too wide) in paragraph at lines 550--550
+[]            \T1/pcr/m/n/12 documents[_idHash_old].newDocument = _idHash_new;[] 
+ []
+
+
+Overfull \hbox (41.03484pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 /********************Getters of attributes************/[] 
+ []
+
+
+Overfull \hbox (105.83481pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 function getOrganitation() public view returns (string memory) {[] 
+ []
+
+LaTeX Info: Redefining \. on input line 550.
+LaTeX Info: Redefining \% on input line 550.
+Package cleveref Info: loaded `spanish' language definitions on input line 550.
+[140]
+Overfull \hbox (33.83484pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 function getOwnerOrg() public view returns (address) {[] 
+ []
+
+
+Overfull \hbox (91.43481pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 function getState(uint256 _id)public view returns (uint256 id,[] 
+ []
+
+
+Overfull \hbox (55.43483pt too wide) in paragraph at lines 550--550
+[]            \T1/pcr/m/n/12 return (states[_id].id, states[_id].name, states[_id][] 
+ []
+
+
+Overfull \hbox (62.63483pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 function getLengthStates() public view returns (uint256) {[] 
+ []
+
+
+Overfull \hbox (55.43483pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 function getAreaOfOwner(address _id, uint256 _area_index)[] 
+ []
+
+
+Overfull \hbox (5.03485pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 function getArea(uint256 _id) public view  returns[] 
+ []
+
+LaTeX Info: Redefining \. on input line 550.
+LaTeX Info: Redefining \% on input line 550.
+Package cleveref Info: loaded `spanish' language definitions on input line 550.
+[141]
+Overfull \hbox (26.63484pt too wide) in paragraph at lines 550--550
+[]            \T1/pcr/m/n/12 return areas[_id_area].idEvents[_id_event_index];[] 
+ []
+
+
+Overfull \hbox (19.43484pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 function getAllEventsOfArea(uint256 _id_area) public[] 
+ []
+
+LaTeX Info: Redefining \. on input line 550.
+LaTeX Info: Redefining \% on input line 550.
+Package cleveref Info: loaded `spanish' language definitions on input line 550.
+[142]
+Overfull \hbox (5.03485pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 function getEvent(uint256 _id) public view returns[] 
+ []
+
+
+Overfull \hbox (55.43483pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 (uint256 id,string memory name,string memory description,[] 
+ []
+
+
+Overfull \hbox (62.63483pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 uint256 state_id,uint256 area_id,string memory startEvent,[] 
+ []
+
+
+Overfull \hbox (33.83484pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 function getCantDocumentEvent(uint256 _id) public view[] 
+ []
+
+
+Overfull \hbox (62.63483pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 function getLengthEvents() public view returns (uint256) {[] 
+ []
+
+
+Overfull \hbox (41.03484pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 function getDocument(string memory _idHash) public view[] 
+ []
+
+
+Overfull \hbox (5.03485pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 uint256 event_id,string memory reasonState,uint256[] 
+ []
+
+LaTeX Info: Redefining \. on input line 550.
+LaTeX Info: Redefining \% on input line 550.
+Package cleveref Info: loaded `spanish' language definitions on input line 550.
+[143]
+Overfull \hbox (33.83484pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 function getDocumentsOfEvent(uint256 _id_event) public[] 
+ []
+
+
+Overfull \hbox (19.43484pt too wide) in paragraph at lines 550--550
+[]        \T1/pcr/m/n/12 function checkDocument(string memory _idHash) public[] 
+ []
+
+
+Overfull \hbox (41.03484pt too wide) in paragraph at lines 550--550
+[]            \T1/pcr/m/n/12 bool[] memory checks = new bool[](idHashes.length);[] 
+ []
+
+
+Overfull \hbox (12.23485pt too wide) in paragraph at lines 550--550
+[]            \T1/pcr/m/n/12 for (uint256 i = 0; i < idHashes.length; i++) {[] 
+ []
+
+
+Overfull \hbox (48.23483pt too wide) in paragraph at lines 550--550
+[]                \T1/pcr/m/n/12 checks[i] = bytes(documents[idHashes[i]].idHash)[] 
+ []
+
+LaTeX Info: Redefining \. on input line 550.
+LaTeX Info: Redefining \% on input line 550.
+Package cleveref Info: loaded `spanish' language definitions on input line 550.
+[144]))
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 137.
+LaTeX Info: Redefining \. on input line 137.
+LaTeX Info: Redefining \% on input line 137.
+Package cleveref Info: loaded `spanish' language definitions on input line 137.
+ [145]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 137.
+ ("d:/unam\Catedras\5 quinto a√±o\Tesis\Mi tesis\ultima version\build\tesis.aux"
+LaTeX Info: Redefining \. on input line 34.
+LaTeX Info: Redefining \% on input line 34.
+Package cleveref Info: loaded `spanish' language definitions on input line 34.
+ ("d:/unam\Catedras\5 quinto a√±o\Tesis\Mi tesis\ultima version\build\abstract.aux") ("d:/unam\Catedras\5 quinto a√±o\Tesis\Mi tesis\ultima version\build\introduccion/introduccion.aux") ("d:/unam\Catedras\5 quinto a√±o\Tesis\Mi tesis\ultima version\build\marco_teorico/marco_teorico.aux") ("d:/unam\Catedras\5 quinto a√±o\Tesis\Mi tesis\ultima version\build\antecedentes_tendencias/antecedentes_tendencias.aux") ("d:/unam\Catedras\5 quinto a√±o\Tesis\Mi tesis\ultima version\build\situacion_actual/situacion_actual.aux") ("d:/unam\Catedras\5 quinto a√±o\Tesis\Mi tesis\ultima version\build\modelo_solucion/modelo_solucion.aux") ("d:/unam\Catedras\5 quinto a√±o\Tesis\Mi tesis\ultima version\build\desarrollo/desarrollo.aux") ("d:/unam\Catedras\5 quinto a√±o\Tesis\Mi tesis\ultima version\build\ensayo/ensayo_validacion.aux") ("d:/unam\Catedras\5 quinto a√±o\Tesis\Mi tesis\ultima version\build\conclusiones/conclusiones.aux"))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 137.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 137.
+Package rerunfilecheck Info: File `tesis.out' has not changed.
+(rerunfilecheck)             Checksum: B0B17B16210B049D02257AD42D1AC7FC;5781.
+ ) 
+Here is how much of TeX's memory you used:
+ 24041 strings out of 480790
+ 415636 string characters out of 2907055
+ 792015 words of memory out of 3000000
+ 38931 multiletter control sequences out of 15000+200000
+ 568917 words of font info for 80 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,12n,59p,1098b,1057s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/zapfchan/uzcmi8a.pfb>
+Output written on "d:/unam\Catedras\5 quinto a√±o\Tesis\Mi tesis\ultima version\build\tesis.pdf" (145 pages, 4076906 bytes).
+PDF statistics:
+ 2035 PDF objects out of 2073 (max. 8388607)
+ 426 named destinations out of 1000 (max. 500000)
+ 881 words of extra memory for PDF output out of 10000 (max. 10000000)
+

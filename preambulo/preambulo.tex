@@ -1,0 +1,185 @@
+\documentclass[
+final,
+titlepage,
+twoside,
+openright,
+onecolumn,
+spanish,
+a4paper,
+12pt]{book}
+
+
+
+% Configuracion de los margenes de la página
+% Ver: https://es.sharelatex.com/learn/Page_size_and_margins
+\usepackage{geometry}
+ \geometry{
+ a4paper,
+ left=4cm, right=2.5cm,
+ top=2.5cm, bottom=2.5cm
+  }
+
+% Tipografia 
+\usepackage{palatino}    %	Palatino 
+% \usepackage{lmodern} 	   %	Latin Modern Roman % \usepackage{tgtermes}    %	TeX Gyre Termes 
+% \usepackage{tgpagella}   %	TeX Gyre Pagella 
+% \usepackage{tgbonum}	   %	TeX Gyre Bonum 
+% \usepackage{tgschola}    %	TeX Gyre Schola 
+% \usepackage{mathptmx}    %	Times 
+% \usepackage{utopia}      %	Utopia 
+% \usepackage{fourier}     %	Fourier 
+% \usepackage{bookman}     %	Bookman 
+% \usepackage{charter}     %	Charter 
+% \usepackage{lmodern}     %	Latin Modern Sans Serif 
+% \usepackage{tgadventor}  %	TeX Gyre Adventor 
+% \usepackage{tgheros}     %	TeX Gyre Heros 
+% \usepackage{helvet}      %	Helvetica 
+% \usepackage{lmodern}     %	Latin Modern Sans Typewriter 
+% \usepackage{tgcursor}    %	TeX Gyre Cursor 
+% \usepackage{courier}     %	Courier 
+\usepackage{cclicenses}
+\usepackage{ccicons} % Iconos Creative Commons
+\usepackage{pifont} % Símbolos especiales ZapfDingbats: https://upload.wikimedia.org/wikipedia/commons/5/56/LaTeX-dingbats.png
+\usepackage{type1cm} % Use scalable, PostScript Type 1 versions of the Computer Modern fonts.
+\usepackage{amsfonts}
+
+% Interlineado
+\usepackage{setspace}
+\onehalfspacing  %\doublespacing
+\renewcommand{\baselinestretch}{1.5} 
+
+% Separacion entre párrafos
+%\setlength\parskip{\medskipamount}
+\setlength\parskip{\bigskipamount}
+
+% Sangría en la primera línea
+\setlength\parindent{50pt}
+
+\usepackage{pdfpages} % Para importar archivos pdf (la portada)
+
+% Tamaño de la fuente del pie de imagen
+\usepackage{caption}
+\captionsetup{font=footnotesize}
+
+%\usepackage{apacite}
+\usepackage[spanish, es-tabla, activeacute]{babel}
+%\usepackage{ucs} 
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[anythingbreaks]{breakurl} % Para cortar las URL largas
+
+\usepackage{graphicx,psfrag,fancyhdr,layout,appendix,subfigure}
+%\{setspace}         
+%\usepackage{multicol}         
+
+% Fancy LaTeX chapter styles
+% Options: Sonny, Lenny, Glenn, Conny, Rejne, Bjarne, Bjornstrup
+\usepackage[Sonny]{fncychap}
+% \usepackage[Bjornstrup]{fncychap}
+% \usepackage[Sonny]{fncychap}
+%\usepackage[Bjornstrup]{fncychap}
+
+\ChNumVar{\fontsize{76}{80}\usefont{OT1}{pzc}{m}{n}\selectfont}
+\ChTitleVar{\raggedleft\huge\sffamily\bfseries}  
+\ChNameVar{\bfseries\Large\sf}
+%\ChNumVar{\Huge}
+%\ChTitleVar{\bfseries\Large\rm}
+%    \ChRuleWidth{1pt}
+%\ChNameUpperCase
+%\ChTitleUpperCase
+
+\usepackage{csquotes}
+
+% para las tablas
+%\usepackage[table,xcdraw]{xcolor}
+%\usepackage{lscape}
+%\usepackage{booktabs}
+
+% Para comentar segmentos del texto
+\usepackage{comment}
+
+\usepackage{float}
+\usepackage{textcomp}
+\usepackage{etoc}
+\usepackage{titlesec}
+\usepackage{makeidx} 
+\usepackage[nottoc]{tocbibind}
+\widowpenalty=100000
+\clubpenalty=100000
+\raggedbottom
+\hyphenpenalty=9000
+\tolerance=100
+
+% Para agregar puntos en los niveles de la tala de contenidos
+\usepackage{tocloft}
+% \renewcommand{\cftpartleader}{\cftdotfill{\cftdotsep}} % Partes
+% \renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}} % Capítulos
+% \renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}} % Secciones
+
+
+% Leave the smallest margins on A4 paper.
+%\usepackage{a4wide}
+
+
+% Package for formatting sequence alignments
+% Most people won't need this.
+%\usepackage{texshade}
+
+% Para que las referencias sean hipervínculos
+\usepackage{hyperref}
+\hypersetup{
+colorlinks=true,
+linkcolor=black,
+filecolor=magenta,
+urlcolor=cyan,
+citecolor=black,
+backref=page,
+pdfpagemode=FullScreen,
+}
+\urlstyle{same}
+\usepackage[anythingbreaks]{breakurl} % Para cortar las URL largas
+
+% Para mostrar los números de secciones las referencias cruzadas
+\usepackage{cleveref}
+\crefname{enumi}{position}{positions}
+
+\makeindex
+
+
+% Bibliografia 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[
+%backend=bibtex, 
+backend=biber,
+style=authoryear, % apa
+citestyle=authoryear, % citestyle=apa,
+%bibstyle=apa,
+sortcites=true,
+sorting=nyt,
+uniquename=init,
+% giveninits=true, % Abreviar los nombres
+autopunct=true,
+autolang=hyphen,
+hyperref=true,
+abbreviate=false,
+backref=true
+]{biblatex} 
+
+\addbibresource{Bibliografia.bib}
+\DeclareLanguageMapping{spanish}{spanish-apa}
+\defbibheading{bibempty}{}
+
+% Para APA 6  
+% \documentclass[a4paper,man,natbib]{apa6}  
+% \usepackage[style=apa,sortcites=true,sorting=nyt,backend=biber]{biblatex}
+
+
+% \input{Silabeo}	% Agregar en este archivo las palabras que sistema no sabe separar en silabas
+
+% Glosario
+\usepackage[xindy]{glossaries} 
+\makeglossaries
+\usepackage[xindy]{imakeidx}
+\makeindex
+\input{glosario}
+

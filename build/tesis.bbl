@@ -1,0 +1,1714 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Academia%
+}{%
+Academia%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+academia_que_2018}
+\APACinsertmetastar {%
+academia_que_2018}%
+\begin{APACrefauthors}%
+Academia, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+\APACrefbtitle {¿{Qué} es {Proof} of {Stake}? {Programador} explica.}
+  {¿{Qué} es {Proof} of {Stake}? {Programador} explica.}
+\newblock
+\APACaddressPublisher{}{Youtube}.
+\newblock
+\begin{APACrefURL}
+  [{08/05/2021}]\url{https://www.youtube.com/watch?v=2_vVII1K5yE}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Alice%
+, Juan%
+, Oscar%
+, Rubén%
+\BCBL {}\ \BBA {} Carlos%
+}{%
+Alice%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2021}}%
+}]{%
+alice_blockchain_2021}
+\APACinsertmetastar {%
+alice_blockchain_2021}%
+\begin{APACrefauthors}%
+Alice, R.%
+, Juan, J.%
+, Oscar, E.%
+, Rubén, S.%
+\BCBL {}\ \BBA {} Carlos, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Blockchain para el {Gobierno} {Digital}} {Blockchain
+  para el {Gobierno} {Digital}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{}{}{}{10}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ambito%
+}{%
+Ambito%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+ambito_cuales_2021}
+\APACinsertmetastar {%
+ambito_cuales_2021}%
+\begin{APACrefauthors}%
+Ambito.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+\APACrefbtitle {Cuáles son las mejores wallets para criptomonedas.} {Cuáles
+  son las mejores wallets para criptomonedas.}
+\newblock
+\APACaddressPublisher{}{ambito}.
+\newblock
+\begin{APACrefURL}
+  [{09/05/2021}]\url{https://www.ambito.com/wallets/cuales-son-las-mejores-criptomonedas-n5182273}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+AvanzaExportador%
+}{%
+AvanzaExportador%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+avanzaexportador_certificados_2009}
+\APACinsertmetastar {%
+avanzaexportador_certificados_2009}%
+\begin{APACrefauthors}%
+AvanzaExportador.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+\APACrefbtitle {Certificados electrónicos y digitales. Firma electrónica.}
+  {Certificados electrónicos y digitales. firma electrónica.}
+\newblock
+\APACaddressPublisher{}{Youtube}.
+\newblock
+\begin{APACrefURL}
+  [{06/11/2020}]\url{https://www.youtube.com/watch?v=EU6vgU077xU&t=208s}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Avila%
+}{%
+Avila%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+avila_implementacion_2015}
+\APACinsertmetastar {%
+avila_implementacion_2015}%
+\begin{APACrefauthors}%
+Avila, J\BPBI G\BPBI P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2015}.
+\unskip\
+\newblock
+\APACrefbtitle {Implementación de certificados y firmas digitales para
+  sistemas de información transaccionales en una empresa gubernamental.}
+  {Implementación de certificados y firmas digitales para sistemas de
+  información transaccionales en una empresa gubernamental.}\
+  \APACtypeAddressSchool {\BUPhD}{}{}.
+\unskip\
+\newblock
+\APACaddressSchool {Guayaquil Ecuador}{Escuela Superior Politécnica Del
+  Litoral}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Back%
+}{%
+Back%
+}{%
+{\protect \APACyear {2002}}%
+}]{%
+back_hashcash_2002}
+\APACinsertmetastar {%
+back_hashcash_2002}%
+\begin{APACrefauthors}%
+Back, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2002}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Hashcash - A Denial of Service Counter-Measure}
+  {Hashcash - a denial of service counter-measure}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{}{}{}{10}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Badreddin%
+, Rivera%
+\BCBL {}\ \BBA {} Malik%
+}{%
+Badreddin%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+badreddin_Blockchain_2018}
+\APACinsertmetastar {%
+badreddin_Blockchain_2018}%
+\begin{APACrefauthors}%
+Badreddin, O.%
+, Rivera, A\BPBI G.%
+\BCBL {}\ \BBA {} Malik, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Blockchain {Fundamentals} and {Development} {Platforms}}
+  {Blockchain {Fundamentals} and {Development} {Platforms}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{IBM Corp}{}{}{3}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+BFA%
+}{%
+BFA%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+{\protect \APACexlab {{\protect \BCntND {1}}}}}]{%
+Blockchain_federal_argentina_aplicaciones_nodate}
+\APACinsertmetastar {%
+Blockchain_federal_argentina_aplicaciones_nodate}%
+\begin{APACrefauthors}%
+BFA.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}{\protect \BCntND {1}}}{}{}.
+\newblock
+\APACrefbtitle {Aplicaciones en {BFA}.} {Aplicaciones en {BFA}.}
+\newblock
+\begin{APACrefURL} [{13/11/2020}]\url{https://bfa.ar/bfa/aplicaciones}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+BFA%
+}{%
+BFA%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+{\protect \APACexlab {{\protect \BCntND {2}}}}}]{%
+Blockchain_federal_argentina_bfa_2020}
+\APACinsertmetastar {%
+Blockchain_federal_argentina_bfa_2020}%
+\begin{APACrefauthors}%
+BFA.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}{\protect \BCntND {2}}}{}{}.
+\newblock
+\APACrefbtitle {{BFA} como funciona.} {{BFA} como funciona.}
+\newblock
+\begin{APACrefURL} [{13/08/2020}]\url{https://bfa.ar/bfa/como-funciona}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+BFA%
+}{%
+BFA%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+{\protect \APACexlab {{\protect \BCntND {3}}}}}]{%
+Blockchain_federal_argentina_protocolos_2020}
+\APACinsertmetastar {%
+Blockchain_federal_argentina_protocolos_2020}%
+\begin{APACrefauthors}%
+BFA.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}{\protect \BCntND {3}}}{}{}.
+\newblock
+\APACrefbtitle {Protocolos de consenso.} {Protocolos de consenso.}
+\newblock
+\begin{APACrefURL}
+  [{05/08/2020}]\url{https://bfa.ar/Blockchain/protocolos-de-consenso}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+BFA%
+}{%
+BFA%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+{\protect \APACexlab {{\protect \BCntND {4}}}}}]{%
+Blockchain_federal_argentina_que_nodate}
+\APACinsertmetastar {%
+Blockchain_federal_argentina_que_nodate}%
+\begin{APACrefauthors}%
+BFA.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}{\protect \BCntND {4}}}{}{}.
+\newblock
+\APACrefbtitle {Que es {BFA}.} {Que es {BFA}.}
+\newblock
+\begin{APACrefURL} [{13/11/2020}]\url{https://bfa.ar/bfa/que-es-bfa}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+BFA%
+}{%
+BFA%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+{\protect \APACexlab {{\protect \BCntND {5}}}}}]{%
+Blockchain_federal_argentina_smart_2020}
+\APACinsertmetastar {%
+Blockchain_federal_argentina_smart_2020}%
+\begin{APACrefauthors}%
+BFA.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}{\protect \BCntND {5}}}{}{}.
+\newblock
+\APACrefbtitle {Smart {Contracts}.} {Smart {Contracts}.}
+\newblock
+\begin{APACrefURL}
+  [{05/08/2020}]\url{https://bfa.ar/Blockchain/smart-contracts}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+BFA%
+}{%
+BFA%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+{\protect \APACexlab {{\protect \BCntND {6}}}}}]{%
+Blockchain_federal_argentina_trazabilidad_nodate}
+\APACinsertmetastar {%
+Blockchain_federal_argentina_trazabilidad_nodate}%
+\begin{APACrefauthors}%
+BFA.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}{\protect \BCntND {6}}}{}{}.
+\newblock
+\APACrefbtitle {Trazabilidad de alimentos.} {Trazabilidad de alimentos.}
+\newblock
+\begin{APACrefURL}
+  [{09/06/2021}]\url{https://bfa.ar/Blockchain/casos-de-uso/trazabilidad-de-alimentos}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+BlockCerts%
+}{%
+BlockCerts%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+{\protect \APACexlab {{\protect \BCntND {1}}}}}]{%
+blockcerts_faq_nodate}
+\APACinsertmetastar {%
+blockcerts_faq_nodate}%
+\begin{APACrefauthors}%
+BlockCerts.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}{\protect \BCntND {1}}}{}{}.
+\newblock
+\APACrefbtitle {{FAQ}.} {{FAQ}.}
+\newblock
+\APACaddressPublisher{}{blockcerts}.
+\newblock
+\begin{APACrefURL}
+  [{17/05/2021}]\url{https://www.blockcerts.org/guide/faq.html}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+BlockCerts%
+}{%
+BlockCerts%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+{\protect \APACexlab {{\protect \BCntND {2}}}}}]{%
+blockcerts_introduction_nodate}
+\APACinsertmetastar {%
+blockcerts_introduction_nodate}%
+\begin{APACrefauthors}%
+BlockCerts.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}{\protect \BCntND {2}}}{}{}.
+\newblock
+\APACrefbtitle {Introduction {BlockCerts}.} {Introduction {BlockCerts}.}
+\newblock
+\begin{APACrefURL} [{12/11/2020}]\url{https://www.blockcerts.org/guide/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bragagnolo%
+, Rocha%
+, Denker%
+\BCBL {}\ \BBA {} Ducasse%
+}{%
+Bragagnolo%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+bragagnolo_smartinspect_2018}
+\APACinsertmetastar {%
+bragagnolo_smartinspect_2018}%
+\begin{APACrefauthors}%
+Bragagnolo, S.%
+, Rocha, H.%
+, Denker, M.%
+\BCBL {}\ \BBA {} Ducasse, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{SmartInspect}: solidity smart contract inspector}
+  {{SmartInspect}: solidity smart contract inspector}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {2018 {International} {Workshop} on {Blockchain}
+  {Oriented} {Software} {Engineering} ({IWBOSE})} {2018 {International}
+  {Workshop} on {Blockchain} {Oriented} {Software} {Engineering} ({IWBOSE})}\
+  (\BPGS\ 9--18).
+\newblock
+\APACaddressPublisher{Campobasso}{IEEE}.
+\newblock
+\begin{APACrefDOI} \doi{10.1109/IWBOSE.2018.8327566} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Brys%
+}{%
+Brys%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+brys_cadena_2019}
+\APACinsertmetastar {%
+brys_cadena_2019}%
+\begin{APACrefauthors}%
+Brys, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+\APACrefbtitle {La {Cadena} de {Bloques} {Blockchain}: Un abordaje comprensible
+  a su definición y posibles usos} {La {Cadena} de {Bloques} {Blockchain}: Un
+  abordaje comprensible a su definición y posibles usos}\
+  \APACbVolEdTR{}{\BTR{}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Cheng%
+, Lee%
+, Chi%
+\BCBL {}\ \BBA {} Chen%
+}{%
+Cheng%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+cheng_Blockchain_2018}
+\APACinsertmetastar {%
+cheng_Blockchain_2018}%
+\begin{APACrefauthors}%
+Cheng, J\BHBI C.%
+, Lee, N\BHBI Y.%
+, Chi, C.%
+\BCBL {}\ \BBA {} Chen, Y\BHBI H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Blockchain and smart contract for digital certificate}
+  {Blockchain and smart contract for digital certificate}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {2018 {IEEE} {International} {Conference} on {Applied}
+  {System} {Invention} ({ICASI})} {2018 {IEEE} {International} {Conference} on
+  {Applied} {System} {Invention} ({ICASI})}\ (\BPGS\ 1046--1051).
+\newblock
+\APACaddressPublisher{Chiba, Japan}{IEEE}.
+\newblock
+\begin{APACrefDOI} \doi{10.1109/ICASI.2018.8394455} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Choo%
+, Dehghantanha%
+\BCBL {}\ \BBA {} Parizi%
+}{%
+Choo%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2020}}%
+}]{%
+choo_Blockchain_2020}
+\APACinsertmetastar {%
+choo_Blockchain_2020}%
+\begin{APACrefauthors}%
+Choo, K\BHBI K\BPBI R.%
+, Dehghantanha, A.%
+\BCBL {}\ \BBA {} Parizi, R\BPBI M.%
+\end{APACrefauthors}%
+\ (\BEDS).
+\unskip\
+\newblock
+\APACrefYear{2020}.
+\newblock
+\APACrefbtitle {Blockchain {Cybersecurity}, {Trust} and {Privacy}} {Blockchain
+  {Cybersecurity}, {Trust} and {Privacy}}\ (\BVOL~79).
+\newblock
+\APACaddressPublisher{Gewerbestrasse 11, 6330 Cham, Switzerland}{Springer
+  International Publishing}.
+\newblock
+\begin{APACrefDOI} \doi{10.1007/978-3-030-38181-3} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Clementín%
+}{%
+Clementín%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+clementin_provincia_2021}
+\APACinsertmetastar {%
+clementin_provincia_2021}%
+\begin{APACrefauthors}%
+Clementín, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+\APACrefbtitle {La provincia argentina de {Misiones} podría emitir su propia
+  stablecoin.} {La provincia argentina de {Misiones} podría emitir su propia
+  stablecoin.}
+\newblock
+\APACaddressPublisher{}{criptonoticias}.
+\newblock
+\begin{APACrefURL}
+  [{26/07/2021}]\url{https://www.criptonoticias.com/regulacion/provincia-argentina-misiones-podria-emitir-propia-stablecoin/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Cámara de Representantes de la Provincia de Misiones}%
+}{%
+{Cámara de Representantes de la Provincia de Misiones}%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+camara_de_representantes_de_la_provincia_de_misiones_programa_2020}
+\APACinsertmetastar {%
+camara_de_representantes_de_la_provincia_de_misiones_programa_2020}%
+\begin{APACrefauthors}%
+{Cámara de Representantes de la Provincia de Misiones}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+\APACrefbtitle {{Programa Misionero de Inovación Financiera con Tecnología
+  Blockchain y Criptomoneda }.} {{Programa Misionero de Inovación Financiera
+  con Tecnología Blockchain y Criptomoneda }.}
+\newblock
+\begin{APACrefURL}
+  [{21/10/2020}]\url{http://www.diputadosmisiones.gob.ar/nuevo/archivos/proyectos/P55666.pdf}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Coinsenda%
+}{%
+Coinsenda%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+coinsenda_tipos_2019}
+\APACinsertmetastar {%
+coinsenda_tipos_2019}%
+\begin{APACrefauthors}%
+Coinsenda.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+\APACrefbtitle {Tipos de {Wallet}.} {Tipos de {Wallet}.}
+\newblock
+\APACaddressPublisher{}{medium}.
+\newblock
+\begin{APACrefURL}
+  [{09/05/2021}]\url{https://medium.com/@coinsenda/tipos-de-wallet-8054a6418d3c}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Cripto247%
+}{%
+Cripto247%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+cripto247_2021_2021}
+\APACinsertmetastar {%
+cripto247_2021_2021}%
+\begin{APACrefauthors}%
+Cripto247.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+\APACrefbtitle {2021, el año de {DeFi}: las tendencias que se vienen y a qué
+  prestarle atención.} {2021, el año de {DeFi}: las tendencias que se vienen
+  y a qué prestarle atención.}
+\newblock
+\APACaddressPublisher{}{cripto247}.
+\newblock
+\begin{APACrefURL}
+  [{11/08/2021}]\url{https://www.cripto247.com/comunidad-cripto/2021-el-ano-de-defi-las-tendencias-que-se-vienen-y-a-que-prestarle-atencion-199138}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+CriptoMonedasTV%
+}{%
+CriptoMonedasTV%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+criptomonedas_tv_entrevista_2018}
+\APACinsertmetastar {%
+criptomonedas_tv_entrevista_2018}%
+\begin{APACrefauthors}%
+CriptoMonedasTV.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+\APACrefbtitle {Entrevista: {BlockCerts} con {Daniel} {Páramo}.} {Entrevista:
+  {BlockCerts} con {Daniel} {Páramo}.}
+\newblock
+\APACaddressPublisher{}{Youtube}.
+\newblock
+\begin{APACrefURL}
+  [{12/11/2020}]\url{https://www.youtube.com/watch?v=eJ9lCuEcUBU}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+D'Agostino%
+}{%
+D'Agostino%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+dagostino_exclusivo_nodate}
+\APACinsertmetastar {%
+dagostino_exclusivo_nodate}%
+\begin{APACrefauthors}%
+D'Agostino, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+\APACrefbtitle {Exclusivo: este el proyecto de ley para impulsar criptomonedas,
+  activos digitales y el {ePeso} en la {Argentina}.} {Exclusivo: este el
+  proyecto de ley para impulsar criptomonedas, activos digitales y el {ePeso}
+  en la {Argentina}.}
+\newblock
+\APACaddressPublisher{}{iproup}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.iproup.com/economia-digital/18143-bitcoin-como-es-el-proyecto-de-ley-de-criptomonedas}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Dannen%
+}{%
+Dannen%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+dannen_introducing_2017}
+\APACinsertmetastar {%
+dannen_introducing_2017}%
+\begin{APACrefauthors}%
+Dannen, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2017}.
+\newblock
+\APACrefbtitle {Introducing {Ethereum} and {Solidity}: {Foundations} of
+  {Cryptocurrency} and {Blockchain} {Programming} for {Beginners}} {Introducing
+  {Ethereum} and {Solidity}: {Foundations} of {Cryptocurrency} and {Blockchain}
+  {Programming} for {Beginners}}.
+\newblock
+\APACaddressPublisher{Berkeley, CA}{Apress}.
+\newblock
+\begin{APACrefDOI} \doi{10.1007/978-1-4842-2535-6} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Drescher%
+}{%
+Drescher%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+drescher_Blockchain_2017}
+\APACinsertmetastar {%
+drescher_Blockchain_2017}%
+\begin{APACrefauthors}%
+Drescher, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2017}.
+\newblock
+\APACrefbtitle {Blockchain {Basics}} {Blockchain {Basics}}.
+\newblock
+\APACaddressPublisher{Berkeley, CA}{Apress}.
+\newblock
+\begin{APACrefDOI} \doi{10.1007/978-1-4842-2604-9} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Edublocs%
+}{%
+Edublocs%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+edublocs_nueve_2019}
+\APACinsertmetastar {%
+edublocs_nueve_2019}%
+\begin{APACrefauthors}%
+Edublocs.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+\APACrefbtitle {Nueve universidades utilizan blockcerts para crear un
+  acreditaciones digitales.} {Nueve universidades utilizan blockcerts para
+  crear un acreditaciones digitales.}
+\newblock
+\APACaddressPublisher{}{edublocs}.
+\newblock
+\begin{APACrefURL}
+  [{12/11/2020}]\url{https://www.edublocs.org/noticias/params/post/1783300/nueve-universidades-utilizan-blockcerts-para-crear-un-acreditaciones-digita}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Educacionit%
+}{%
+Educacionit%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+educacionit_carrera_nodate}
+\APACinsertmetastar {%
+educacionit_carrera_nodate}%
+\begin{APACrefauthors}%
+Educacionit.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACrefbtitle {{Carrera} {Blockchain}.} {{Carrera} {Blockchain}.}
+\newblock
+\APACaddressPublisher{}{educacionit}.
+\newblock
+\begin{APACrefURL}
+  [{12/05/2021}]\url{https://www.educacionit.com/carrera-blockchain}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ethereum%
+}{%
+Ethereum%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+ethereum_solidity_nodate}
+\APACinsertmetastar {%
+ethereum_solidity_nodate}%
+\begin{APACrefauthors}%
+Ethereum.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACrefbtitle {Solidity.} {Solidity.}
+\newblock
+\APACaddressPublisher{}{soliditylang}.
+\newblock
+\begin{APACrefURL} [{12/05/2021}]\url{https://docs.soliditylang.org/en/v0.8.4/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ethereum%
+}{%
+Ethereum%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+ethereum_que_2020}
+\APACinsertmetastar {%
+ethereum_que_2020}%
+\begin{APACrefauthors}%
+Ethereum.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+\APACrefbtitle {¿{Qué} es {Ethereum}?} {¿{Qué} es {Ethereum}?}
+\newblock
+\APACaddressPublisher{}{ethereum.org}.
+\newblock
+\begin{APACrefURL}
+  [{09/11/2020}]\url{https://ethereum.org/es/what-is-ethereum/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Garcia~Rojas%
+}{%
+Garcia~Rojas%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+garcia_rojas_implementacion_2008}
+\APACinsertmetastar {%
+garcia_rojas_implementacion_2008}%
+\begin{APACrefauthors}%
+Garcia~Rojas, W\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2008}.
+\unskip\
+\newblock
+\APACrefbtitle {Implementación de firma digital en una plataforma de comercio
+  electrónico.} {Implementación de firma digital en una plataforma de
+  comercio electrónico.}\ \APACtypeAddressSchool {\BPhD}{Lima,
+  Perú}{Universidad Católica del Perú}.
+\unskip\
+\newblock
+\begin{APACrefURL}
+  \url{https://tesis.pucp.edu.pe/repositorio/handle/20.500.12404/352}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gauchi~Risso%
+}{%
+Gauchi~Risso%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+gauchi_risso_aproximacion_2012}
+\APACinsertmetastar {%
+gauchi_risso_aproximacion_2012}%
+\begin{APACrefauthors}%
+Gauchi~Risso, V.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Aproximación teórica a la relación entre los
+  términos gestión documental, gestión de información y gestión del
+  conocimiento} {Aproximación teórica a la relación entre los términos
+  gestión documental, gestión de información y gestión del
+  conocimiento}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Revista española de Documentación
+  Científica}{35}{4}{531--554}.
+\newblock
+\begin{APACrefDOI} \doi{10.3989/redc.2012.4.869} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Jimenez%
+}{%
+Jimenez%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+jimenez_proyecto_2020}
+\APACinsertmetastar {%
+jimenez_proyecto_2020}%
+\begin{APACrefauthors}%
+Jimenez, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+\APACrefbtitle {Proyecto {Colmena} basado en tecnología {Blockchain} se llevó
+  mención especial en concurso {NAVES} 2020.} {Proyecto {Colmena} basado en
+  tecnología {Blockchain} se llevó mención especial en concurso {NAVES}
+  2020.}
+\newblock
+\APACaddressPublisher{}{cointelegraph}.
+\newblock
+\begin{APACrefURL}
+  [{12/08/2021}]\url{https://es.cointelegraph.com/news/colmena-project-based-on-blockchain-technology-received-a-special-mention-in-the-naves-2020-contest}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Jirgensons%
+\ \BBA {} Kapenieks%
+}{%
+Jirgensons%
+\ \BBA {} Kapenieks%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+jirgensons_Blockchain_2018}
+\APACinsertmetastar {%
+jirgensons_Blockchain_2018}%
+\begin{APACrefauthors}%
+Jirgensons, M.%
+\BCBT {}\ \BBA {} Kapenieks, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Blockchain and the {Future} of {Digital} {Learning}
+  {Credential} {Assessment} and {Management}} {Blockchain and the {Future} of
+  {Digital} {Learning} {Credential} {Assessment} and {Management}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Teacher Education for
+  Sustainability}{20}{1}{145--156}.
+\newblock
+\begin{APACrefURL}
+  [{27/06/2020}]\url{https://content.sciendo.com/doi/10.2478/jtes-2018-0009}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.2478/jtes-2018-0009} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Joaquín López~Lérida%
+}{%
+Joaquín López~Lérida%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+joaquin_lopez_lerida_economiBlockchain_2016}
+\APACinsertmetastar {%
+joaquin_lopez_lerida_economiBlockchain_2016}%
+\begin{APACrefauthors}%
+Joaquín López~Lérida, J\BPBI J\BPBI M\BPBI P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2016}.
+\newblock
+\APACrefbtitle {La economía de {Blockchain}} {La economía de {Blockchain}}.
+\newblock
+\APACaddressPublisher{}{Kindle}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kelly%
+, Lauer%
+, Prinster%
+\BCBL {}\ \BBA {} Zhang%
+}{%
+Kelly%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+kelly_investigation_2018}
+\APACinsertmetastar {%
+kelly_investigation_2018}%
+\begin{APACrefauthors}%
+Kelly, J.%
+, Lauer, M.%
+, Prinster, R.%
+\BCBL {}\ \BBA {} Zhang, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Investigation of {Blockchain} {Network} {Security}}
+  {Investigation of {Blockchain} {Network} {Security}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{}{}{}{15}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+King%
+\ \BBA {} Nadal%
+}{%
+King%
+\ \BBA {} Nadal%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+king_ppcoin_2012}
+\APACinsertmetastar {%
+king_ppcoin_2012}%
+\begin{APACrefauthors}%
+King, S.%
+\BCBT {}\ \BBA {} Nadal, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{PPCoin}: {Peer}-to-{Peer} {Crypto}-{Currency} with
+  {Proof}-of-{Stake}} {{PPCoin}: {Peer}-to-{Peer} {Crypto}-{Currency} with
+  {Proof}-of-{Stake}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{}{}{}{6}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lab%
+}{%
+Lab%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+mit_media_lab_what_2016}
+\APACinsertmetastar {%
+mit_media_lab_what_2016}%
+\begin{APACrefauthors}%
+Lab, M\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+\APACrefbtitle {What we learned from designing an academic certificates system
+  on the Blockchain.} {What we learned from designing an academic certificates
+  system on the blockchain.}
+\newblock
+\APACaddressPublisher{}{medium}.
+\newblock
+\begin{APACrefURL}
+  [{17/05/2021}]\url{https://medium.com/mit-media-lab/what-we-learned-from-designing-an-academic-certificates-system-on-the-Blockchain-34ba5874f196#.4m4bmwcm0}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mayor%
+}{%
+Mayor%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+mayor_Blockchain_2017}
+\APACinsertmetastar {%
+mayor_Blockchain_2017}%
+\begin{APACrefauthors}%
+Mayor, C\BPBI E\BPBI O.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Blockchain la nueva base de datos no SQL en Big DAta}}
+  {{Blockchain la nueva base de datos no SQL en Big DAta}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{UNIVERSIDAD DE GUADALAJARA – CUCEA FACULTAD DE
+  INGENIERIA}{}{UNIVERSIDAD LIBRE DE COLOMBIA}{32}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+MetaMask%
+}{%
+MetaMask%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+metamask_introduction_2021}
+\APACinsertmetastar {%
+metamask_introduction_2021}%
+\begin{APACrefauthors}%
+MetaMask.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+\APACrefbtitle {Introduction.} {Introduction.}
+\newblock
+\APACaddressPublisher{}{metamask}.
+\newblock
+\begin{APACrefURL}
+  [{21/05/2021}]\url{https://docs.metamask.io/guide/#why-metamask}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mozilla%
+}{%
+Mozilla%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+mozilla_trabajando_json}
+\APACinsertmetastar {%
+mozilla_trabajando_json}%
+\begin{APACrefauthors}%
+Mozilla.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACrefbtitle {Trabajando con {JSON}.} {Trabajando con {JSON}.}
+\newblock
+\APACaddressPublisher{}{mozilla}.
+\newblock
+\begin{APACrefURL}
+  [{13/07/2021}]\url{https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/JSON}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Nakamoto%
+}{%
+Nakamoto%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+nakamoto_bitcoin_2008}
+\APACinsertmetastar {%
+nakamoto_bitcoin_2008}%
+\begin{APACrefauthors}%
+Nakamoto, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Bitcoin: {A} {Peer}-to-{Peer} {Electronic} {Cash}
+  {System}} {Bitcoin: {A} {Peer}-to-{Peer} {Electronic} {Cash}
+  {System}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{}{}{}{9}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Noticiasdel6%
+}{%
+Noticiasdel6%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+noticiasdel6com_proyecto_2020}
+\APACinsertmetastar {%
+noticiasdel6com_proyecto_2020}%
+\begin{APACrefauthors}%
+Noticiasdel6.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+\APACrefbtitle {Proyecto {Colmena}: un modelo de recuperación de residuos.}
+  {Proyecto {Colmena}: un modelo de recuperación de residuos.}
+\newblock
+\APACaddressPublisher{}{noticiasdel6}.
+\newblock
+\begin{APACrefURL}
+  [{12/08/2021}]\url{https://www.noticiasdel6.com/proyecto-colmena-un-modelo-de-recuperacion-de-residuos/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+OpenCerts%
+}{%
+OpenCerts%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+opencerts_frequently_nodate}
+\APACinsertmetastar {%
+opencerts_frequently_nodate}%
+\begin{APACrefauthors}%
+OpenCerts.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACrefbtitle {Frequently {Asked} {Questions}.} {Frequently {Asked}
+  {Questions}.}
+\newblock
+\APACaddressPublisher{}{opencerts}.
+\newblock
+\begin{APACrefURL} [{23/07/2021}]\url{https://www.opencerts.io/faq}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+OpenCerts%
+}{%
+OpenCerts%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+opencerts_gestion_nodate}
+\APACinsertmetastar {%
+opencerts_gestion_nodate}%
+\begin{APACrefauthors}%
+OpenCerts.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+\APACrefbtitle {Gestión de certificados académicos sobre la
+  Blockchain{Ethereum}.} {Gestión de certificados académicos sobre la
+  blockchain{Ethereum}.}
+\newblock
+\APACaddressPublisher{}{Universitat Oberta de Catalunya}.
+\newblock
+\begin{APACrefURL}
+  [{12/11/2020}]\url{https://informatica.blogs.uoc.edu/gestion-de-certificados-academicos-sobre-la-blockchain-ethereum}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Org%
+}{%
+Org%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+ethereum_org_transactions_2021}
+\APACinsertmetastar {%
+ethereum_org_transactions_2021}%
+\begin{APACrefauthors}%
+Org, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+\APACrefbtitle {{TRANSACTIONS}.} {{TRANSACTIONS}.}
+\newblock
+\APACaddressPublisher{}{ethereum}.
+\newblock
+\begin{APACrefURL}
+  [{05/04/2021}]\url{https://ethereum.org/en/developers/docs/transactions/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Preukschat%
+\ \protect \BOthers {.}}{%
+Preukschat%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+preukschat_Blockchain_2018}
+\APACinsertmetastar {%
+preukschat_Blockchain_2018}%
+\begin{APACrefauthors}%
+Preukschat, A.%
+, Várez, J\BPBI L.%
+, Kuchkovsky, C.%
+, Lardies, G\BPBI G.%
+, García, D\BPBI D.%
+\BCBL {}\ \BBA {} Íñigo Molero.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2018}.
+\newblock
+\APACrefbtitle {Blockchain: la revolución industrial de internet} {Blockchain:
+  la revolución industrial de internet}.
+\newblock
+\APACaddressPublisher{Barcelona}{Gestión 2000}.
+\newblock
+\APACrefnote{OCLC: 1079886042}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Raskin%
+}{%
+Raskin%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+raskin_law_2017}
+\APACinsertmetastar {%
+raskin_law_2017}%
+\begin{APACrefauthors}%
+Raskin, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The law and legality of smart contracts.} {The law and
+  legality of smart contracts.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{1 Georgetown Law Technology Review 304}{1}{}{37}.
+\newblock
+\begin{APACrefDOI} \doi{https://ssrn.com/abstract=2959166} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Remix%
+}{%
+Remix%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+remix_deploy_nodate}
+\APACinsertmetastar {%
+remix_deploy_nodate}%
+\begin{APACrefauthors}%
+Remix.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACrefbtitle {{Deploy \& Run transactions in the Blockchain}.} {{Deploy \&
+  Run transactions in the Blockchain}.}
+\newblock
+\APACaddressPublisher{}{remix}.
+\newblock
+\begin{APACrefURL} [{12/05/2021}]\url{https://remix-project.org/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Retamal%
+, Roig%
+\BCBL {}\ \BBA {} Muños~Tapia%
+}{%
+Retamal%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+retamal_Blockchain_2017}
+\APACinsertmetastar {%
+retamal_Blockchain_2017}%
+\begin{APACrefauthors}%
+Retamal, C\BPBI D.%
+, Roig, J\BPBI B.%
+\BCBL {}\ \BBA {} Muños~Tapia, J\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {La Blockchain: fundamentos, aplicaciones y relación con
+  otras tecnologías disruptivas} {La blockchain: fundamentos, aplicaciones y
+  relación con otras tecnologías disruptivas}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Dialnet}{}{}{33--40}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Rezaeighaleh%
+\ \BBA {} Zou%
+}{%
+Rezaeighaleh%
+\ \BBA {} Zou%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+rezaeighaleh_new_2019}
+\APACinsertmetastar {%
+rezaeighaleh_new_2019}%
+\begin{APACrefauthors}%
+Rezaeighaleh, H.%
+\BCBT {}\ \BBA {} Zou, C\BPBI C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {New {Secure} {Approach} to {Backup} {Cryptocurrency}
+  {Wallets}} {New {Secure} {Approach} to {Backup} {Cryptocurrency}
+  {Wallets}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {2019 {IEEE} {Global} {Communications} {Conference}
+  ({GLOBECOM})} {2019 {IEEE} {Global} {Communications} {Conference}
+  ({GLOBECOM})}\ (\BPGS\ 1--6).
+\newblock
+\APACaddressPublisher{Waikoloa, HI, USA}{IEEE}.
+\newblock
+\begin{APACrefDOI} \doi{10.1109/GLOBECOM38437.2019.9014007} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sadouskaya%
+}{%
+Sadouskaya%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+sadouskaya_adoption_2017}
+\APACinsertmetastar {%
+sadouskaya_adoption_2017}%
+\begin{APACrefauthors}%
+Sadouskaya, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2017}.
+\unskip\
+\newblock
+\APACrefbtitle {Adoption of {Blockchain} {Technology} in {Supply} {Chain} and
+  {Logistics}} {Adoption of {Blockchain} {Technology} in {Supply} {Chain} and
+  {Logistics}}\ \APACtypeAddressSchool {\BUPhD}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Satoh%
+\ \BBA {} Inoue%
+}{%
+Satoh%
+\ \BBA {} Inoue%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+satoh_asic-hardware-focused_2007}
+\APACinsertmetastar {%
+satoh_asic-hardware-focused_2007}%
+\begin{APACrefauthors}%
+Satoh, A.%
+\BCBT {}\ \BBA {} Inoue, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{ASIC}-hardware-focused comparison for hash functions
+  {MD5}, {RIPEMD}-160, and {SHS}} {{ASIC}-hardware-focused comparison for hash
+  functions {MD5}, {RIPEMD}-160, and {SHS}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Integration}{40}{1}{3--10}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.vlsi.2005.12.006} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Schollmeier%
+}{%
+Schollmeier%
+}{%
+{\protect \APACyear {2002}}%
+}]{%
+schollmeier_definition_2002}
+\APACinsertmetastar {%
+schollmeier_definition_2002}%
+\begin{APACrefauthors}%
+Schollmeier, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2002}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A definition of peer-to-peer networking for the
+  classification of peer-to-peer architectures and applications} {A definition
+  of peer-to-peer networking for the classification of peer-to-peer
+  architectures and applications}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings {First} {International} {Conference} on
+  {Peer}-to-{Peer} {Computing}} {Proceedings {First} {International}
+  {Conference} on {Peer}-to-{Peer} {Computing}}\ (\BPGS\ 101--102).
+\newblock
+\APACaddressPublisher{Linkoping, Sweden}{IEEE Comput. Soc}.
+\newblock
+\begin{APACrefDOI} \doi{10.1109/P2P.2001.990434} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sheinix%
+}{%
+Sheinix%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+crypto_sheinix_bitcoin_2020}
+\APACinsertmetastar {%
+crypto_sheinix_bitcoin_2020}%
+\begin{APACrefauthors}%
+Sheinix, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+\APACrefbtitle {Bitcoin Basico - Criptografía de llave pública llave privada
+  - Explicación sencilla.} {Bitcoin basico - criptografía de llave pública
+  llave privada - explicación sencilla.}
+\newblock
+\APACaddressPublisher{}{Youtube}.
+\newblock
+\begin{APACrefURL}
+  [{06/11/2020}]\url{https://www.youtube.com/watch?v=mtDqU0yvwus}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Torres%
+}{%
+Torres%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+torres_Blockchain_nodate}
+\APACinsertmetastar {%
+torres_Blockchain_nodate}%
+\begin{APACrefauthors}%
+Torres, A\BPBI D\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Blockchain: características y estado actual. {Posible}
+  efecto sobre la auditoría. {Blockchain}: characteristics and current state.
+  {Possible} effect on the audit.} {Blockchain: características y estado
+  actual. {Posible} efecto sobre la auditoría. {Blockchain}: characteristics
+  and current state. {Possible} effect on the audit.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{}{}{}{33}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+TRUFFLE%
+}{%
+TRUFFLE%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+{\protect \APACexlab {{\protect \BCntND {1}}}}}]{%
+truffle_suite_ganache_nodate}
+\APACinsertmetastar {%
+truffle_suite_ganache_nodate}%
+\begin{APACrefauthors}%
+TRUFFLE.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}{\protect \BCntND {1}}}{}{}.
+\newblock
+\APACrefbtitle {GANACHE OVERVIEW.} {Ganache overview.}
+\newblock
+\APACaddressPublisher{}{trufflesuite}.
+\newblock
+\begin{APACrefURL}
+  [{12/11/2020}]\url{https://www.trufflesuite.com/docs/ganache/overview}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+TRUFFLE%
+}{%
+TRUFFLE%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+{\protect \APACexlab {{\protect \BCntND {2}}}}}]{%
+truffle_truffle_nodate}
+\APACinsertmetastar {%
+truffle_truffle_nodate}%
+\begin{APACrefauthors}%
+TRUFFLE.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}{\protect \BCntND {2}}}{}{}.
+\newblock
+\APACrefbtitle {{TRUFFLE} {OVERVIEW}.} {{TRUFFLE} {OVERVIEW}.}
+\newblock
+\APACaddressPublisher{}{trufflesuite}.
+\newblock
+\begin{APACrefURL}
+  [{12/05/2021}]\url{https://www.trufflesuite.com/docs/truffle/overview}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+UNaM%
+}{%
+UNaM%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+estatuto}
+\APACinsertmetastar {%
+estatuto}%
+\begin{APACrefauthors}%
+UNaM.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+\APACrefbtitle {{Estatuto de la Universidad Nacional de Misiones X Asamblea
+  Universitarioa }.} {{Estatuto de la Universidad Nacional de Misiones X
+  Asamblea Universitarioa }.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+VUEJS%
+}{%
+VUEJS%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+vuejs_introduction_nodate}
+\APACinsertmetastar {%
+vuejs_introduction_nodate}%
+\begin{APACrefauthors}%
+VUEJS.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACrefbtitle {Introduction.} {Introduction.}
+\newblock
+\APACaddressPublisher{}{vuejs}.
+\newblock
+\begin{APACrefURL}
+  [{02/06/2021}]\url{https://v3.vuejs.org/guide/introduction.html}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+VUEJS%
+}{%
+VUEJS%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+vue_cli_overview_2019}
+\APACinsertmetastar {%
+vue_cli_overview_2019}%
+\begin{APACrefauthors}%
+VUEJS.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+\APACrefbtitle {Overview.} {Overview.}
+\newblock
+\APACaddressPublisher{}{vuejs}.
+\newblock
+\begin{APACrefURL} [{25/05/2021}]\url{https://cli.vuejs.org/guide/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Vázquez%
+}{%
+Vázquez%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+vazquez_episodio_2020}
+\APACinsertmetastar {%
+vazquez_episodio_2020}%
+\begin{APACrefauthors}%
+Vázquez, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Episodio clínico en Blockchain de {Ethereum}} {Episodio
+  clínico en blockchain de {Ethereum}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Universitat Oberta de Catalunya (UOC)}{}{}{56}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Web3js%
+}{%
+Web3js%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+web3js_web3js_2016}
+\APACinsertmetastar {%
+web3js_web3js_2016}%
+\begin{APACrefauthors}%
+Web3js.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+\APACrefbtitle {web3.js - {Ethereum} {JavaScript} {API}.} {web3.js - {Ethereum}
+  {JavaScript} {API}.}
+\newblock
+\begin{APACrefURL} [{12/05/2021}]\url{https://web3js.readthedocs.io/en/v1.3.4/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

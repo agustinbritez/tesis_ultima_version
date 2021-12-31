@@ -1,0 +1,65 @@
+\section{Certificado Digital y Firma Digital}
+Por un lado, el Certificado Digital es un documento emitido por una organización que presta un servicio (denominada autoridad de certificación), el 
+documento o archivo digital contiene datos relacionado a un usuario en particular, una persona física o una organización. El certificado 
+puede ser emitido en diversos formatos de archivos, la autoridad encargada reconoce y confirma los datos expuestos en el certificado 
+digital, con utilización de técnicas criptográficas de clave pública y privada o de infraestructura de clave pública (Public key infrastructure) \cite[]{avila_implementacion_2015}.
+
+La infraestructura de clave pública permite a las entidades ser autenticadas y reconocidas por otras entidades mediante los certificados 
+digitales que además permiten cifrar y descifrar mensajes, firmar digitalmente y garantizar su integridad \cite[]{avila_implementacion_2015}. 
+
+Las partes o componentes más importante de una \gls{pki} son las que se exponen a continuación \cite[]{avila_implementacion_2015}:
+
+\begin{itemize}
+    \item La \gls{ac}: encargada de generar, emitir y revocar los certificados; es la responsable que da  legitimidad a la clave pública con respecto a la  entidad. 
+
+    \item La \gls{ra}: es la responsable de verificar si los enlace de las claves públicas corresponden a las entidades titulares.
+    
+    \item Los repositorios: se encargan de almacenar la información relativa a la \gls{pki}, como los repositorios que guardan las claves públicas y  otras que resguardan las listas de claves revocadas.
+
+    \item La \gls{va}: se encarga de comprobar que los certificados digitales sean válidos.
+
+    \item La \gls{tsa}: encargada de firmar los documentos para crear un registro específico en el momento exacto que existió.
+
+    \item Los usuarios finales: obtienen una clave privada y una clave pública, también un certificado asociado a su clave pública. Mediante el uso de diversas aplicaciones hacen uso de la tecnología \gls{pki} para validar, cifrar y descifrar documentos.
+
+\end{itemize}
+
+Por otro lado, la Firma Digital es el mecanismo de criptografía de clave pública que permite dar
+seguridad al receptor del documento firmado digitalmente; la firma digital se realiza con la
+clave privada del remitente para cifrar la información a enviar y el receptor emplea la
+clave pública del remitente para descifrarla, para así garantizar la autenticidad del origen de la informacion y verificar 
+que ésta no fue modificada desde su creación. Este es un método para validar si mensajes, documentos o archivos han sido alterados.
+Al método de clave pública y clave privada también se lo denomina método asimétrico \cite[]{avila_implementacion_2015}.
+
+
+La aplicación del método de cifrado asimétrico puede encontrarse en el caso de que, por ejemplo,  una institución envía por correo electrónico un título digital a un estudiante. Es decir, 
+la institución tiene en su poder
+una clave pública y una privada,
+la clave privada solo es conocida por la institución, ella no debe revelarla. Mientras
+que la clave pública es un código que cualquier individuo puede conocerla, la institución puede 
+mostrar su clave pública.
+Para que el título tenga validez la institución utiliza su clave privada para cifrar el título digital. Una vez hecho esto, la institución envía el documento cifrado al estudiante y éste utiliza la llave pública para descifrar el documento y tener acceso al titulo digital.
+El método valida inequívocamente a la institución ya que cualquier mensaje cifrado con la clave privada solamente puede ser descrifrado con la clave pública, por lo que ambas se complementan.
+Por lo tanto si el mensaje es interceptado y cambian el  contenido, al momento de cifrarlo 
+no podrá ser descifrado con la clave pública de la institución y de esta manera se verifica que la institución no envió el mensaje \cite[]{avila_implementacion_2015,garcia_rojas_implementacion_2008,avanzaexportador_certificados_2009}. 
+
+
+Las autoridades certificadoras juegan un rol importante ya que ellas son la que emiten estas claves,
+y validan la identidad de las organizaciones o personas. Por lo tanto si una entidad “A” quiere enviar un mensaje
+privado a una entidad “B”, la entidad “A” debe consultar a la autoridad de certificación  es la clave pública de 
+la entidad “B” y confiar que esa es la correcta \cite[]{garcia_rojas_implementacion_2008}. 
+
+El cifrado asimétrico no es el único método pero es uno de los más comunmente utilizados para validar documentaciones digitales \cite[]{crypto_sheinix_bitcoin_2020}.  
+
+Utilizando este método de criptografía se puede asegurar que una entidad es quién dice ser y también que un mensaje fue
+emitido por ella. Por lo tanto el método de criptografía se utiliza para validar que una entidad es la que emitió un documento digital,
+pudiendo ser este algún certificado académico,  título  académico \cite[]{avila_implementacion_2015,garcia_rojas_implementacion_2008,crypto_sheinix_bitcoin_2020}. 
+
+
+
+
+
+
+
+  
+

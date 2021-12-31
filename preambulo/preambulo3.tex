@@ -1,0 +1,36 @@
+\documentclass{book}
+
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{hyperref}
+\usepackage{appendix}
+\usepackage{comment}
+% % Imagenes % % %
+\usepackage{graphicx, float}
+\graphicspath{ {imagenes/} }
+% % Glosario % % %
+\usepackage[xindy,nonumberlist,acronym,toc,
+style=altlist]{glossaries}
+\makeglossaries
+\input{glosario}
+
+%------------------------------------Configuraciones --------------
+\renewcommand{\appendixname}{Anexos}
+\renewcommand{\appendixtocname}{Anexos}
+\renewcommand{\appendixpagename}{Anexos}
+
+% Hypertexto colores, formas, etc. (Link o URL)
+\hypersetup{
+colorlinks=true,
+linkcolor=black,
+filecolor=magenta,
+urlcolor=cyan,
+citecolor=black,
+pdfpagemode=FullScreen,
+}
+\urlstyle{same}
+
+\title{Propuesta de sistema de validación para documentos digitales con tecnología  Blockchain en la Universidad Nacional de Misiones.}
+\author{Ezequiel Agustin, Britez  }
+\date{Septiembre 2020}

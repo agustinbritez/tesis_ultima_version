@@ -1,0 +1,137 @@
+%%carpeta preambul para probar diferentes diseños
+\input{preambulo/preambulo2.tex}
+
+%--------------------------Inicio del documento ------------------
+\begin{document}
+
+% \maketitle
+\input{Portada}
+
+\newcommand*{\BeginNoToc}{%
+  \addtocontents{toc}{%
+    \edef\protect\SavedTocDepth{\protect\the\protect\value{tocdepth}}%
+  }%
+  \addtocontents{toc}{%
+    \protect\setcounter{tocdepth}{-10}%
+  }%
+}
+\newcommand*{\EndNoToc}{%
+  \addtocontents{toc}{%
+    \protect\setcounter{tocdepth}{\protect\SavedTocDepth}%
+  }%
+}
+
+
+%-------------------------- Indice ------------------------------- 
+%----------------------- Abstract --------
+\include{abstract} 
+
+\tableofcontents
+% \printindex
+
+\BeginNoToc
+
+\listoffigures
+
+\listoftables
+
+\EndNoToc
+
+
+%----------------------------Imágenes-----------------------------
+%%lista de imagenes o figuras
+% \listoffigures
+
+%------------------- Tablas ---------------------------------------
+% lista o indice de tablas utilizadas
+% \listoftables
+
+% Encabezados y pies de página
+%There are special commands containing details on the running page of the document.
+%thepage 	number of the current page
+%\leftmark 	current chapter name printed 
+%\rightmark 	current section name printed 
+%\chaptername 	the name chapter in the current language. If this is English, it will display %"Chapter"
+%\thechapter 	current chapter number
+%\thesection 	current section number
+
+
+% % Numero de página % %
+% \pagestyle{fancy} %activo este y el pie de pagia puede personalizarse 
+% \pagestyle{plain}
+\pagestyle{fancy}
+\fancyhf{}
+% Estilos Fancy para los encabezados
+\fancyhead[LE]{\nouppercase{\leftmark}} %Capitulo a la izquierda encabezado
+\fancyhead[RO]{\nouppercase{\rightmark}} %Seccion a la derecha encabezado
+\fancyfoot[LE,RO]{\thepage} % Numero de pagina almargen del pie
+
+% \fancyhf{}
+% \setlength{\headheight}{15pt} 
+%\fancyhead[LO]{\rightmark} % Print the nearest section name on the left side of odd pages
+%\fancyhead[RE]{\leftmark} % Print the current chapter name on the right side of even pages
+
+% \fancyhead[LE]{\nouppercase{\leftmark}} % Capítulo a la izquierda encabezado
+% \fancyhead[RO]{\nouppercase{\rightmark}} % Sección a la derecha encabezado
+% \fancyfoot[LE,RO]{\thepage} % Numero de  página al margen del pie
+% \fancyfoot[CE,CE]{\thepage} % Numero de  página al margen del pie
+
+
+
+
+%----------------------- Motivación, Introducción,Abstract, dominio --------
+\include{introduccion/introduccion} 
+
+% ------------------ Planteamiento del problema -----------------
+%?? El planteamiento del problema es lo mismo que motivacion ?????
+
+%----------------Marco Teórico ------------------------------------
+\include{marco_teorico/marco_teorico} 
+
+%------------------ Antecedentes y tendencias --------------------
+%% antecedentes de certificados digitales con  Blockchain y si existe alguna moda o tendencia actual.
+\include{antecedentes_tendencias/antecedentes_tendencias} 
+
+
+%--------------- Situacion actual ------------------------------------
+%%contar sobre como actualemte realizan la certificacion de los cursos de extension.
+\include{situacion_actual/situacion_actual} 
+
+
+%------------------ Descripción del problema y solución--------------------
+%% ser especifico cual es el problema y porque es un problema. Acordate que existe solucion para esto, pero no existe un sistema autonomo que certifique 
+
+\include{modelo_solucion/modelo_solucion}
+
+
+%---------------- Elaboración de solución ------------------------
+%% Diseñar un modelo teorico enfocnadome en todas las referencias bibliograficas
+
+%% -------------- Desarrollo de la solución -----------------------------------
+% Realizar el proceso de como se construye el sistema propuesto para la certificaciones.
+\include{desarrollo/desarrollo}
+
+%%%-------------------------Ensayos  validacion------------------------
+\include{ensayo/ensayo_validacion}
+
+
+%---------------- Conclusion -------------------------------------
+\include{conclusiones/conclusiones}
+
+% ------------------------ Imprime el glosario y los acronimos -----
+\printglossary[type=main,title={Glosario de
+Términos}]
+
+\printglossary[type=\acronymtype,title={Siglas}]
+
+%-------------- Bibliografía --------------------------------------
+% \bibliographystyle{ieeetr}
+% \bibliographystyle{apalike}
+% \bibliography{referencias/bibliografia.bib} 
+% \printbibliography
+\bibliographystyle{apacite}
+\bibliography{referencias/bibliografia.bib} 
+%--------------------Anexos --------------------------------------
+\input{anexo/anexo.tex}
+
+\end{document}
